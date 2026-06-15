@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Tim's Newsletter Digest</title>
+    <description>Daily audio digest of AI, tech and current affairs newsletters.</description>
+    <link>https://daletimwood.github.io/Commercial-Excellence</link>
+    <language>en-gb</language>
+    <itunes:author>Tim Wood</itunes:author>
+    <itunes:image href="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/artwork.png"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:category text="News"/>
+    <item>
+      <title>Newsletter Digest — Monday, June 15, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Mon, 15 Jun 2026 09:15:26 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-15</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-15.mp3" type="audio/mpeg" length="3195504"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Sunday, June 14, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Sun, 14 Jun 2026 08:49:40 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-14</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-14.mp3" type="audio/mpeg" length="4138560"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Saturday, June 13, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Sat, 13 Jun 2026 07:52:43 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-13</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-13.mp3" type="audio/mpeg" length="5155056"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Friday, June 12, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Fri, 12 Jun 2026 08:12:18 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-12</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-12.mp3" type="audio/mpeg" length="5020272"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Thursday, June 11, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Thu, 11 Jun 2026 14:12:06 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-11</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-11.mp3" type="audio/mpeg" length="4571568"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Wednesday, June 10, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Wed, 10 Jun 2026 07:53:34 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-10</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-10.mp3" type="audio/mpeg" length="4951440"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Tuesday, June 9, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Tue, 09 Jun 2026 07:41:03 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-09</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-09.mp3" type="audio/mpeg" length="5046336"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Monday, June 8, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Mon, 08 Jun 2026 08:13:58 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-08</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-08.mp3" type="audio/mpeg" length="4057920"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Sunday, June 7, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Sun, 07 Jun 2026 07:43:03 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-07</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-07.mp3" type="audio/mpeg" length="4222512"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Saturday, June 6, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Sat, 06 Jun 2026 07:40:49 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-06</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-06.mp3" type="audio/mpeg" length="3709872"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Friday, June 5, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Fri, 05 Jun 2026 08:01:25 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-05</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-05.mp3" type="audio/mpeg" length="4759344"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Thursday, June 4, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Thu, 04 Jun 2026 07:40:26 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-04</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-04.mp3" type="audio/mpeg" length="3150288"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Wednesday, June 3, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Wed, 03 Jun 2026 07:35:18 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-03</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-03.mp3" type="audio/mpeg" length="4891680"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Tuesday, June 2, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Tue, 02 Jun 2026 09:02:17 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-02</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-02.mp3" type="audio/mpeg" length="4290912"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Monday, June 1, 2026</title>
+      <description>Covering: Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Scaling Europe &lt;scaling-europe@mail.beehiiv.com&gt;, Clara from Prior Labs &lt;clara@priorlabs.ai&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, TLDR Data &lt;dan@tldrnewsletter.com&gt;, Ollama &lt;hello@ollama.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Chris Williamson &lt;chris@chriswillx.com&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 12:02:07 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-01</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-01.mp3" type="audio/mpeg" length="3261888"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Sunday, May 31, 2026</title>
+      <description>Covering: Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Tomas Pueyo from Uncharted Territories &lt;unchartedterritories@substack.com&gt;</description>
+      <pubDate>Sun, 31 May 2026 21:14:50 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-31</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-31.mp3" type="audio/mpeg" length="2429424"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Saturday, May 30, 2026</title>
+      <description>Covering: Google Alerts &lt;googlealerts-noreply@google.com&gt;, Pete Trainor via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Marc Rubinstein from Net Interest &lt;netinterest@substack.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, TechCrunch Events &lt;noreply@techcrunch.com&gt;, "The Batch @ DeepLearning.AI" &lt;thebatch@deeplearning.ai&gt;, Newcomer &lt;newcomer@substack.com&gt;</description>
+      <pubDate>Sat, 30 May 2026 20:30:35 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-30</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-30.mp3" type="audio/mpeg" length="1723824"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Friday, May 29, 2026</title>
+      <description>Newsletter episode for Friday, 29 May 2026</description>
+      <pubDate>Fri, 29 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-29</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-29.mp3" type="audio/mpeg" length="6821856"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Thursday, May 28, 2026</title>
+      <description>Newsletter episode for Thursday, 28 May 2026</description>
+      <pubDate>Thu, 28 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-28</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-28.mp3" type="audio/mpeg" length="7245504"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Wednesday, May 27, 2026</title>
+      <description>Newsletter episode for Wednesday, 27 May 2026</description>
+      <pubDate>Wed, 27 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-27</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-27.mp3" type="audio/mpeg" length="7018848"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Tuesday, May 26, 2026</title>
+      <description>Newsletter episode for Tuesday, 26 May 2026</description>
+      <pubDate>Tue, 26 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-26</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-26.mp3" type="audio/mpeg" length="7440624"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Monday, May 25, 2026</title>
+      <description>Newsletter episode for Monday, 25 May 2026</description>
+      <pubDate>Mon, 25 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-25</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-25.mp3" type="audio/mpeg" length="7195824"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Sunday, May 24, 2026</title>
+      <description>Newsletter episode for Sunday, 24 May 2026</description>
+      <pubDate>Sun, 24 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-24</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-24.mp3" type="audio/mpeg" length="7192224"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Saturday, May 23, 2026</title>
+      <description>Newsletter episode for Saturday, 23 May 2026</description>
+      <pubDate>Sat, 23 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-23</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-23.mp3" type="audio/mpeg" length="6860736"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Friday, May 22, 2026</title>
+      <description>Newsletter episode for Friday, 22 May 2026</description>
+      <pubDate>Fri, 22 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-22</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-22.mp3" type="audio/mpeg" length="6860736"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Thursday, May 21, 2026</title>
+      <description>Newsletter episode for Thursday, 21 May 2026</description>
+      <pubDate>Thu, 21 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-21</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-21.mp3" type="audio/mpeg" length="7195824"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Wednesday, May 20, 2026</title>
+      <description>Newsletter episode for Wednesday, 20 May 2026</description>
+      <pubDate>Wed, 20 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-20</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-20.mp3" type="audio/mpeg" length="8152704"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Tuesday, May 19, 2026</title>
+      <description>Newsletter episode for Tuesday, 19 May 2026</description>
+      <pubDate>Tue, 19 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-19</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-19.mp3" type="audio/mpeg" length="6561360"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Monday, May 18, 2026</title>
+      <description>Newsletter episode for Monday, 18 May 2026</description>
+      <pubDate>Mon, 18 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-18</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-18.mp3" type="audio/mpeg" length="6723072"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Sunday, May 17, 2026</title>
+      <description>Newsletter episode for Sunday, 17 May 2026</description>
+      <pubDate>Sun, 17 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-17</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-17.mp3" type="audio/mpeg" length="7389216"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Saturday, May 16, 2026</title>
+      <description>Newsletter episode for Saturday, 16 May 2026</description>
+      <pubDate>Sat, 16 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-16</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-16.mp3" type="audio/mpeg" length="8221536"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Friday, May 15, 2026</title>
+      <description>Newsletter episode for Friday, 15 May 2026</description>
+      <pubDate>Fri, 15 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-15</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-15.mp3" type="audio/mpeg" length="7891632"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Thursday, May 14, 2026</title>
+      <description>Newsletter episode for Thursday, 14 May 2026</description>
+      <pubDate>Thu, 14 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-14</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-14.m4a" type="audio/mp4" length="3865317"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Wednesday, May 13, 2026</title>
+      <description>Newsletter episode for Wednesday, 13 May 2026</description>
+      <pubDate>Wed, 13 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-13</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-13.mp3" type="audio/mpeg" length="6054336"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Tuesday, May 12, 2026</title>
+      <description>Newsletter episode for Tuesday, 12 May 2026</description>
+      <pubDate>Tue, 12 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-12</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-12.mp3" type="audio/mpeg" length="7066656"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Monday, May 11, 2026</title>
+      <description>Newsletter episode for Monday, 11 May 2026</description>
+      <pubDate>Mon, 11 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-11</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-11.mp3" type="audio/mpeg" length="6108912"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Sunday, May 10, 2026</title>
+      <description>Newsletter episode for Sunday, 10 May 2026</description>
+      <pubDate>Sun, 10 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-10</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-10.mp3" type="audio/mpeg" length="7580736"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Saturday, May 9, 2026</title>
+      <description>Newsletter episode for Saturday, 09 May 2026</description>
+      <pubDate>Sat, 09 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-09</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-09.mp3" type="audio/mpeg" length="7751808"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Friday, May 8, 2026</title>
+      <description>Newsletter episode for Friday, 08 May 2026</description>
+      <pubDate>Fri, 08 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-08</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-08.mp3" type="audio/mpeg" length="7929648"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Thursday, May 7, 2026</title>
+      <description>Covering: TLDR (AI/Tech, Founders, IT), CoinDesk / Consensus Miami, Caixin Global, St. James's Place Investment Market Update, Hiive Private Markets Digest, Google Alert: Project Prometheus</description>
+      <pubDate>Thu, 07 May 2026 11:28:31 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-07</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-07.mp3" type="audio/mpeg" length="6518880"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Wednesday, May 6, 2026</title>
+      <description>Newsletter episode for Wednesday, 06 May 2026</description>
+      <pubDate>Wed, 06 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-06</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-06.mp3" type="audio/mpeg" length="7287984"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Tuesday, May 5, 2026</title>
+      <description>Newsletter episode for Tuesday, 05 May 2026</description>
+      <pubDate>Tue, 05 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-05</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-05.mp3" type="audio/mpeg" length="7484400"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Monday, May 4, 2026</title>
+      <description>Newsletter episode for Monday, 04 May 2026</description>
+      <pubDate>Mon, 04 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-04</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-04.mp3" type="audio/mpeg" length="7147152"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Sunday, May 3, 2026</title>
+      <description>Newsletter episode for Sunday, 03 May 2026</description>
+      <pubDate>Sun, 03 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-03</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-03.mp3" type="audio/mpeg" length="8146656"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Saturday, May 2, 2026</title>
+      <description>Newsletter episode for Saturday, 02 May 2026</description>
+      <pubDate>Sat, 02 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-02</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-02.mp3" type="audio/mpeg" length="9417888"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Friday, May 1, 2026</title>
+      <description>Newsletter episode for Friday, 01 May 2026</description>
+      <pubDate>Fri, 01 May 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-05-01</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-01.mp3" type="audio/mpeg" length="6739056"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Thursday, April 30, 2026</title>
+      <description>Newsletter episode for Thursday, 30 April 2026</description>
+      <pubDate>Thu, 30 Apr 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-04-30</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-30.mp3" type="audio/mpeg" length="7299936"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Wednesday, April 29, 2026</title>
+      <description>Newsletter episode for Wednesday, 29 April 2026</description>
+      <pubDate>Wed, 29 Apr 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-04-29</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-29.mp3" type="audio/mpeg" length="7245072"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Tuesday, April 28, 2026</title>
+      <description>Newsletter episode for Tuesday, 28 April 2026</description>
+      <pubDate>Tue, 28 Apr 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-04-28</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-28.mp3" type="audio/mpeg" length="7245072"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Monday, April 27, 2026</title>
+      <description>Newsletter episode for Monday, 27 April 2026</description>
+      <pubDate>Mon, 27 Apr 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-04-27</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-27.mp3" type="audio/mpeg" length="7871472"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Sunday, April 26, 2026</title>
+      <description>Newsletter episode for Sunday, 26 April 2026</description>
+      <pubDate>Sun, 26 Apr 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-04-26</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-26.mp3" type="audio/mpeg" length="6866064"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Saturday, April 25, 2026</title>
+      <description>Newsletter episode for Saturday, 25 April 2026</description>
+      <pubDate>Sat, 25 Apr 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-04-25</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-25.mp3" type="audio/mpeg" length="7196544"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Thursday, April 23, 2026</title>
+      <description>Newsletter episode for Thursday, 23 April 2026</description>
+      <pubDate>Thu, 23 Apr 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-04-23</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-23.mp3" type="audio/mpeg" length="7611408"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Wednesday, April 22, 2026</title>
+      <description>Newsletter episode for Wednesday, 22 April 2026</description>
+      <pubDate>Wed, 22 Apr 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-04-22</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-22.mp3" type="audio/mpeg" length="7117776"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Tuesday, April 21, 2026</title>
+      <description>Newsletter episode for Tuesday, 21 April 2026</description>
+      <pubDate>Tue, 21 Apr 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-04-21</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-21.mp3" type="audio/mpeg" length="7363296"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Monday, April 20, 2026</title>
+      <description>Newsletter episode for Monday, 20 April 2026</description>
+      <pubDate>Mon, 20 Apr 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-04-20</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-20.mp3" type="audio/mpeg" length="7482528"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Sunday, April 19, 2026</title>
+      <description>Newsletter episode for Sunday, 19 April 2026</description>
+      <pubDate>Sun, 19 Apr 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-04-19</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-19.mp3" type="audio/mpeg" length="6529104"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Saturday, April 18, 2026</title>
+      <description>Newsletter episode for Saturday, 18 April 2026</description>
+      <pubDate>Sat, 18 Apr 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-04-18</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-18.mp3" type="audio/mpeg" length="6423696"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Friday, April 17, 2026</title>
+      <description>Newsletter episode for Friday, 17 April 2026</description>
+      <pubDate>Fri, 17 Apr 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-04-17</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-17.mp3" type="audio/mpeg" length="6241248"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Thursday, April 16, 2026</title>
+      <description>Newsletter episode for Thursday, 16 April 2026</description>
+      <pubDate>Thu, 16 Apr 2026 07:00:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-04-16</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-16.mp3" type="audio/mpeg" length="7238880"/>
+    </item>
+  </channel>
+</rss>
