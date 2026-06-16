@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Tuesday, June 16, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Tue, 16 Jun 2026 07:54:30 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-16</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-16.mp3" type="audio/mpeg" length="5352336"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Monday, June 15, 2026</title>
       <description>Daily newsletter digest</description>
       <pubDate>Mon, 15 Jun 2026 09:15:26 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 17 Apr 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-04-17</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-17.mp3" type="audio/mpeg" length="6241248"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Thursday, April 16, 2026</title>
-      <description>Newsletter episode for Thursday, 16 April 2026</description>
-      <pubDate>Thu, 16 Apr 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-04-16</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-16.mp3" type="audio/mpeg" length="7238880"/>
     </item>
   </channel>
 </rss>
