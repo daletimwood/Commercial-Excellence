@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Thursday, June 18, 2026</title>
+      <description>Covering: Heather Cox Richardson and Liza Donnelly from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, TLDR Founders &lt;dan@tldrnewsletter.com&gt;, Ollama &lt;hello@ollama.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 08:14:47 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-18</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-18.mp3" type="audio/mpeg" length="2991312"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Wednesday, June 17, 2026</title>
       <description>Daily newsletter digest</description>
       <pubDate>Wed, 17 Jun 2026 07:53:01 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 19 Apr 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-04-19</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-19.mp3" type="audio/mpeg" length="6529104"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Saturday, April 18, 2026</title>
-      <description>Newsletter episode for Saturday, 18 April 2026</description>
-      <pubDate>Sat, 18 Apr 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-04-18</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-18.mp3" type="audio/mpeg" length="6423696"/>
     </item>
   </channel>
 </rss>
