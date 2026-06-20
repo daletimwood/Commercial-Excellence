@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Saturday, June 20, 2026</title>
+      <description>Covering: The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Kirsten at TechCrunch Mobility &lt;newsletters@techcrunch.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Anthony Vicino &lt;av@anthonyvicino.com&gt;, Marc Rubinstein from Net Interest &lt;netinterest@substack.com&gt;, Newcomer &lt;newcomer@substack.com&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 09:12:39 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-20</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-20.mp3" type="audio/mpeg" length="2389248"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Friday, June 19, 2026</title>
       <description>Covering: Flipboard &lt;editorialstaff@flipboard.com&gt;, Amos Bar Joseph &lt;swan-ai@mail.beehiiv.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Caroline Osborne &lt;news@intellegens.com&gt;, TLDR Data &lt;dan@tldrnewsletter.com&gt;, Chris Williamson &lt;chris@chriswillx.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;</description>
       <pubDate>Fri, 19 Jun 2026 11:34:00 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Tue, 21 Apr 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-04-21</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-21.mp3" type="audio/mpeg" length="7363296"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Monday, April 20, 2026</title>
-      <description>Newsletter episode for Monday, 20 April 2026</description>
-      <pubDate>Mon, 20 Apr 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-04-20</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-20.mp3" type="audio/mpeg" length="7482528"/>
     </item>
   </channel>
 </rss>
