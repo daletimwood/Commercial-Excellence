@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Sunday, June 21, 2026</title>
+      <description>Covering: The Substack Post &lt;post+the-weekender@substack.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, The Free Press &lt;bariweiss+free-press-events@substack.com&gt;, The Free Press &lt;bariweiss+the-weekend-press@substack.com&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 10:36:03 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-21</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-21.mp3" type="audio/mpeg" length="3625344"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Saturday, June 20, 2026</title>
       <description>Covering: The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, Kirsten at TechCrunch Mobility &lt;newsletters@techcrunch.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Anthony Vicino &lt;av@anthonyvicino.com&gt;, Marc Rubinstein from Net Interest &lt;netinterest@substack.com&gt;, Newcomer &lt;newcomer@substack.com&gt;</description>
       <pubDate>Sat, 20 Jun 2026 09:12:39 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 22 Apr 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-04-22</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-22.mp3" type="audio/mpeg" length="7117776"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Tuesday, April 21, 2026</title>
-      <description>Newsletter episode for Tuesday, 21 April 2026</description>
-      <pubDate>Tue, 21 Apr 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-04-21</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-21.mp3" type="audio/mpeg" length="7363296"/>
     </item>
   </channel>
 </rss>
