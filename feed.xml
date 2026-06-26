@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Friday, June 26, 2026</title>
+      <description>Daily newsletter digest</description>
+      <pubDate>Fri, 26 Jun 2026 22:38:54 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-26</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-26.mp3" type="audio/mpeg" length="3298320"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Thursday, June 25, 2026</title>
       <description>Covering: StrictlyVC &lt;connie@strictlyvc.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Peter Hinssen via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, TLDR Founders &lt;dan@tldrnewsletter.com&gt;</description>
       <pubDate>Thu, 25 Jun 2026 08:14:36 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Tue, 28 Apr 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-04-28</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-28.mp3" type="audio/mpeg" length="7245072"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Monday, April 27, 2026</title>
-      <description>Newsletter episode for Monday, 27 April 2026</description>
-      <pubDate>Mon, 27 Apr 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-04-27</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-27.mp3" type="audio/mpeg" length="7871472"/>
     </item>
   </channel>
 </rss>
