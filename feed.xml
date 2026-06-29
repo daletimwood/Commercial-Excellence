@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Monday, June 29, 2026</title>
+      <description>Covering: Software Synthesis by Akash Bajwa &lt;akashbajwa@substack.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Chris Williamson &lt;chris@chriswillx.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Ollama &lt;hello@ollama.com&gt;, Heather Cox Richardson and 250 to 250 from Letters from an American &lt;heathercoxrichardson@substack.com&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 08:24:48 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-29</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-29.mp3" type="audio/mpeg" length="3247344"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Sunday, June 28, 2026</title>
       <description>Covering: The Substack Post &lt;post+the-weekender@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;</description>
       <pubDate>Sun, 28 Jun 2026 08:16:45 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 01 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-05-01</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-01.mp3" type="audio/mpeg" length="6739056"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Thursday, April 30, 2026</title>
-      <description>Newsletter episode for Thursday, 30 April 2026</description>
-      <pubDate>Thu, 30 Apr 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-04-30</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-04-30.mp3" type="audio/mpeg" length="7299936"/>
     </item>
   </channel>
 </rss>
