@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Tuesday, June 30, 2026</title>
+      <description>Covering: Steve from AI Clambake &lt;steve@aiclambake.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, TLDR Fintech &lt;dan@tldrnewsletter.com&gt;, The Monday Mindhack &lt;info@michaelmcqueen.net&gt;, TLDR Founders &lt;dan@tldrnewsletter.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 13:37:05 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-06-30</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-30.mp3" type="audio/mpeg" length="5955120"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Monday, June 29, 2026</title>
       <description>Covering: Software Synthesis by Akash Bajwa &lt;akashbajwa@substack.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Chris Williamson &lt;chris@chriswillx.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Ollama &lt;hello@ollama.com&gt;, Heather Cox Richardson and 250 to 250 from Letters from an American &lt;heathercoxrichardson@substack.com&gt;</description>
       <pubDate>Mon, 29 Jun 2026 08:24:48 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 02 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-05-02</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-02.mp3" type="audio/mpeg" length="9417888"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Friday, May 1, 2026</title>
-      <description>Newsletter episode for Friday, 01 May 2026</description>
-      <pubDate>Fri, 01 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-05-01</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-01.mp3" type="audio/mpeg" length="6739056"/>
     </item>
   </channel>
 </rss>
