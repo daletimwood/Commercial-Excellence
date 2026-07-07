@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Tuesday, July 7, 2026</title>
+      <description>Covering: Steve from AI Clambake &lt;steve@aiclambake.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, TLDR Data &lt;dan@tldrnewsletter.com&gt;, Chris Williamson &lt;chris@chriswillx.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Dr Michelle Gibbings via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 10:13:13 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-07-07</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-07.mp3" type="audio/mpeg" length="1751616"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Monday, July 6, 2026</title>
       <description>Covering: Hiive &lt;noreply@app.hiive.com&gt;, Scaling Europe &lt;scaling-europe@mail.beehiiv.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Software Synthesis by Akash Bajwa &lt;akashbajwa@substack.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Pete Trainor via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Heather Cox Richardson and 250 to 250 from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;</description>
       <pubDate>Mon, 06 Jul 2026 09:51:05 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 08 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-05-08</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-08.mp3" type="audio/mpeg" length="7929648"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Thursday, May 7, 2026</title>
-      <description>Covering: TLDR (AI/Tech, Founders, IT), CoinDesk / Consensus Miami, Caixin Global, St. James's Place Investment Market Update, Hiive Private Markets Digest, Google Alert: Project Prometheus</description>
-      <pubDate>Thu, 07 May 2026 11:28:31 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-05-07</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-07.mp3" type="audio/mpeg" length="6518880"/>
     </item>
   </channel>
 </rss>
