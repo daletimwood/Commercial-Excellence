@@ -1,0 +1,1612 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Commercial Leadership in the Age of AI — Series Framework</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Georgia', serif;
+    font-size: 16px;
+    line-height: 1.65;
+    color: #1a1a1a;
+    background: #f9f8f5;
+    padding: 0 0 80px;
+  }
+
+  .hero {
+    background: #1a1a2e;
+    color: #f0ede6;
+    padding: 60px 40px 50px;
+    text-align: center;
+  }
+
+  .hero h1 {
+    font-size: 3rem;
+    font-weight: normal;
+    letter-spacing: -1px;
+    margin-bottom: 8px;
+  }
+
+  .hero h1 em {
+    font-style: italic;
+    color: #c8a96e;
+  }
+
+  .hero .tagline {
+    font-size: 1.1rem;
+    color: #a8a4a0;
+    max-width: 600px;
+    margin: 0 auto 36px;
+  }
+
+  .stats-bar {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+  }
+
+  .stat {
+    text-align: center;
+  }
+
+  .stat-number {
+    display: block;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #c8a96e;
+  }
+
+  .stat-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #888;
+  }
+
+  .content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  .section {
+    margin: 48px 0 32px;
+  }
+
+  .section h2 {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #999;
+    margin-bottom: 12px;
+    border-bottom: 1px solid #e0ddd8;
+    padding-bottom: 8px;
+  }
+
+  .section p {
+    font-size: 1rem;
+    color: #333;
+    max-width: 780px;
+  }
+
+  .sources-list {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 8px;
+    margin-top: 10px;
+  }
+
+  .sources-list li {
+    font-size: 0.9rem;
+    color: #444;
+    padding: 6px 10px;
+    background: #eeeae3;
+    border-radius: 4px;
+  }
+
+  .sources-list li strong {
+    color: #1a1a2e;
+  }
+
+  /* PILLAR HEADER */
+  .pillar-header {
+    margin: 56px 0 24px;
+    padding: 20px 24px;
+    background: #1a1a2e;
+    color: #f0ede6;
+    border-radius: 6px;
+  }
+
+  .pillar-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #c8a96e;
+    margin-bottom: 4px;
+  }
+
+  .pillar-header h2 {
+    font-size: 1.5rem;
+    font-weight: normal;
+    margin-bottom: 6px;
+  }
+
+  .pillar-header p {
+    font-size: 0.9rem;
+    color: #a0a0b0;
+    max-width: 700px;
+  }
+
+  .pillar-track {
+    margin: 56px 0 24px;
+    padding: 20px 24px;
+    background: #2d1a2e;
+    color: #f0ede6;
+    border-radius: 6px;
+  }
+
+  .pillar-track .pillar-label {
+    color: #c89ecf;
+  }
+
+  .pillar-track p {
+    color: #b0a0b8;
+  }
+
+  /* EPISODE CARD */
+  .episode {
+    background: #fff;
+    border: 1px solid #e4e0d8;
+    border-radius: 6px;
+    padding: 24px 28px;
+    margin-bottom: 18px;
+  }
+
+  .episode-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+  }
+
+  .ep-number {
+    font-size: 0.75rem;
+    font-weight: bold;
+    font-family: 'Courier New', monospace;
+    color: #999;
+    min-width: 28px;
+  }
+
+  .badge {
+    font-size: 0.68rem;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-weight: 600;
+  }
+
+  .badge-lmi    { background: #e8f0fe; color: #2a5caa; }
+  .badge-mat    { background: #fef3e2; color: #8a5500; }
+  .badge-dim    { background: #f0f4e8; color: #3a5a20; }
+  .badge-draft  { background: #f5f5f5; color: #777; }
+  .badge-intro  { background: #1a1a2e; color: #c8a96e; }
+  .badge-ece    { background: #f3e8fe; color: #6a2aaa; }
+
+  .episode h3 {
+    font-size: 1.15rem;
+    font-weight: bold;
+    color: #1a1a2e;
+    margin-bottom: 6px;
+    line-height: 1.3;
+  }
+
+  .episode-premise {
+    font-size: 0.93rem;
+    color: #555;
+    margin-bottom: 14px;
+    font-style: italic;
+  }
+
+  .episode-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-top: 12px;
+  }
+
+  @media (max-width: 640px) {
+    .episode-grid { grid-template-columns: 1fr; }
+    .hero h1 { font-size: 2rem; }
+  }
+
+  .block h4 {
+    font-size: 0.68rem;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #888;
+    margin-bottom: 6px;
+  }
+
+  .block ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .block ul li {
+    font-size: 0.88rem;
+    color: #444;
+    padding: 3px 0 3px 14px;
+    position: relative;
+  }
+
+  .block ul li::before {
+    content: '–';
+    position: absolute;
+    left: 0;
+    color: #bbb;
+  }
+
+  .block p {
+    font-size: 0.88rem;
+    color: #444;
+  }
+
+  .ai-block {
+    grid-column: 1 / -1;
+    background: #f7f5f0;
+    border-left: 3px solid #c8a96e;
+    padding: 10px 14px;
+    border-radius: 0 4px 4px 0;
+  }
+
+  .ai-block h4 {
+    color: #8a6a20;
+  }
+
+  .ai-block p {
+    font-size: 0.88rem;
+    color: #555;
+  }
+
+  .note {
+    font-size: 0.82rem;
+    color: #999;
+    font-style: italic;
+    background: #f5f3ee;
+    padding: 10px 14px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+  }
+
+  .how-to-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    margin-top: 12px;
+  }
+
+  .how-to-item {
+    background: #fff;
+    border: 1px solid #e4e0d8;
+    border-radius: 4px;
+    padding: 14px 16px;
+    font-size: 0.88rem;
+    color: #444;
+  }
+
+  .how-to-item strong {
+    display: block;
+    color: #1a1a2e;
+    margin-bottom: 4px;
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  footer {
+    margin-top: 64px;
+    text-align: center;
+    font-size: 0.8rem;
+    color: #aaa;
+    font-family: sans-serif;
+    padding: 0 24px;
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <h1>Commercial Leadership <em>in the Age of AI</em></h1>
+  <p class="tagline">A structured series on the leadership and commercial shifts that change career trajectories — built on a proven leadership development framework and the IFS Commercial Maturity Model.</p>
+  <div class="stats-bar">
+    <div class="stat"><span class="stat-number">38</span><span class="stat-label">Total Episodes</span></div>
+    <div class="stat"><span class="stat-number">4</span><span class="stat-label">Main Groups</span></div>
+    <div class="stat"><span class="stat-number">1</span><span class="stat-label">Parallel Track</span></div>
+    <div class="stat"><span class="stat-number">~20 min</span><span class="stat-label">Per Episode</span></div>
+    <div class="stat"><span class="stat-number">IFS</span><span class="stat-label">Group Commercial</span></div>
+  </div>
+</div>
+
+<div class="content">
+
+  <div class="section">
+    <h2>Series premise</h2>
+    <p>Most leadership content teaches tactics. This series teaches frameworks — the mental models that determine whether tactics compound. Each episode draws on a proven leadership development tradition and refracts it through the IFS Commercial Maturity Model, asking a single question at every level: <em>does mastering this make a commercial practitioner measurably more effective at capturing and creating value?</em> The series runs personal-to-strategic: from how you manage your own time, to how you lead a team, to how you shape commercial strategy at scale. The parallel Coaching &amp; Empowerment track sits alongside for leaders who are simultaneously managing people.</p>
+    <p style="margin-top:12px;">The new urgency: AI is compounding the reach and impact of every commercial practitioner. Those who have internalized strong leadership and commercial frameworks will use AI to go further, faster. Those who haven't will find that AI accelerates the gap. This is the right time to build the foundation.</p>
+  </div>
+
+  <div class="section">
+    <h2>Primary intellectual sources</h2>
+    <ul class="sources-list">
+      <li><strong>IFS Commercial Maturity Model</strong> — five-level, five-dimension value capture framework</li>
+<li><strong>Paul J. Meyer</strong> — framework founder; crystallised thought, goal-directed action</li>
+      <li><strong>Patrick Lencioni</strong> — Organizational health; the Five Dysfunctions of a Team</li>
+      <li><strong>Willie Pietersen</strong> — Strategic Learning model; strategy as a process, not an event</li>
+      <li><strong>Jim Collins</strong> — Good to Great; Level 5 leadership; flywheel effect</li>
+      <li><strong>Richard Leider</strong> — Purpose and calling in leadership</li>
+      <li><strong>Cal Newport</strong> — Deep work; career capital theory</li>
+      <li><strong>Warren Buffett</strong> — Berkshire Hathaway shareholder letters (1977–2023); economic moats; pricing power; the institutional imperative; circle of competence; consumer franchise vs. commodity</li>
+      <li><strong>Leadership Management International (LMI)</strong> — principles from five recommended programmes: Personal Productivity, Personal Leadership, Motivational Leadership, Strategic Leadership, Coaching and Empowerment</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>How to use this series</h2>
+    <div class="how-to-grid">
+      <div class="how-to-item"><strong>Sequential curriculum</strong>Run episodes in order as a structured development programme, starting with Group One. Designed to build progressively — personal foundations first, strategic impact last.</div>
+      <div class="how-to-item"><strong>Entry-point matching</strong>Commercial team members can enter at their current maturity level. Experienced leaders may start at Group Three or Group Four without losing value.</div>
+      <div class="how-to-item"><strong>Parallel track</strong>The Coaching &amp; Empowerment track (C1–C6) is for leaders with direct reports and can be run alongside any group. Not required for individual contributors.</div>
+      <div class="how-to-item"><strong>Synthesis finessing</strong>Each episode synthesises the development framework material and applies the commercial maturity lens. Scripts require original "why now" framing specific to IFS and the AI context before recording.</div>
+    </div>
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- EPISODE 00 — INTRO -->
+  <!-- ============================================================ -->
+  <div class="pillar-header">
+    <p class="pillar-label">Introduction</p>
+    <h2>Why This, Why Now</h2>
+    <p>The case for a leadership and commercial development series — and why the moment AI arrives is exactly the right time to build the human foundation beneath it.</p>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">00</span>
+      <span class="badge badge-intro">Series Introduction</span>
+      <span class="badge badge-mat">All Levels</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>The Commercial Practitioner in the Age of AI</h3>
+    <p class="episode-premise">Why IFS Group Commercial is investing in this kind of development, what the Commercial Maturity Model tells us about where we are, and why AI doesn't replace the need for great commercial leadership — it compounds the difference between those who have it and those who don't.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>What the Commercial Maturity Model reveals: value is being created but not fully captured</li>
+          <li>The Total Leader framework — personal to strategic, and why the sequence matters</li>
+          <li>AI as a multiplier: the commercial practitioner with a strong framework goes further, faster</li>
+          <li>How this series works, what each episode asks of the listener, and what success looks like</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>Frame the IFS commercial context honestly: we operate across multiple business units, multiple geographies, with complexity that rewards those who can think strategically. The maturity model is the diagnostic; this series is the development pathway.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens — the "why now" thread</h4>
+        <p>AI is not replacing commercial practitioners — it is extending the leverage available to those who think clearly and lead well. A practitioner who has mastered purpose, strategy, and people leadership will use AI to reach 10× the commercial outcomes. One who hasn't will be levelled. This is not a threat; it is the most urgent case for this kind of development in a generation.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- PILLAR I — THE COMMERCIAL SELF -->
+  <!-- ============================================================ -->
+  <div class="pillar-header">
+    <p class="pillar-label">Group One · Episodes 01–06 · Source: Effective Personal Productivity</p>
+    <h2>The Commercial Self</h2>
+    <p>Before you can lead commercially, you need to lead yourself. These six episodes address the personal productivity habits, time awareness, and delegation instincts that determine how much of your energy is actually spent on high-value commercial work.</p>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">01</span>
+      <span class="badge badge-lmi">EPP · L1</span>
+      <span class="badge badge-mat">L1 → L2</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Where Does Your Commercial Day Actually Go?</h3>
+    <p class="episode-premise">The definition of personal productivity for a commercial practitioner — and the uncomfortable audit of how much time is spent on high-payoff versus low-payoff activity.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>Defining productivity in commercial terms: not busyness, but value output per hour</li>
+          <li>The High-Payoff Activity audit: what moves revenue, margin, and relationship equity?</li>
+          <li>Where commercial practitioners most commonly leak time (reactive email, low-stakes meetings, internal admin)</li>
+          <li>Writing your position description as a value statement, not a task list</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>Map to maturity model: an L1 commercial function is reactive — priorities shift with every urgent request. Moving to L2 requires knowing what "controlled" actually means for your personal workflow. The High-Payoff Activity list becomes your personal version of commercial governance.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI handles an ever-expanding list of low-payoff tasks — drafting, formatting, data retrieval, scheduling. The commercial practitioner who has identified their high-payoff activities will use this headroom wisely. The one who hasn't will fill the space with more low-payoff work.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">02</span>
+      <span class="badge badge-lmi">EPP · L2</span>
+      <span class="badge badge-mat">L1 → L2</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Your Productivity Baseline</h3>
+    <p class="episode-premise">A clear-eyed picture of how you currently spend your time — and the habit structures (affirmations, visualisation, goal tracking) drawn from the development framework.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The Personal Productivity Analysis: running your own time audit without judgment</li>
+          <li>Drawing the "Time Picture" — where time goes across categories, not just tasks</li>
+          <li>Why the science of spaced repetition and affirmation underlies this series' audio-first design</li>
+          <li>Setting initial productivity goals with measurable targets</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>Maturity starts with honest self-assessment. The L2 practitioner has documented their priorities — this episode gives the mechanism for doing that at the personal level before it scales to team and organizational practice.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI-generated calendar and email analytics tools can now surface your time picture automatically. Knowing what you're looking for before you open the data is the difference between insight and overwhelm.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">03</span>
+      <span class="badge badge-lmi">EPP · L3</span>
+      <span class="badge badge-mat">L2</span>
+      <span class="badge badge-dim">Process</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Cut the Noise, Capture the Value</h3>
+    <p class="episode-premise">Interruptions, communication overload, and low-payoff activity are the enemies of commercial impact. This episode gives the diagnostic tools to identify and reduce them.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The Interruption Analyzer: what breaks commercial focus and at what cost?</li>
+          <li>Communication in and out — how much of your communication drives value vs. manages noise?</li>
+          <li>The Wheel of Life time-use evaluation: balancing commercial intensity with personal sustainability</li>
+          <li>Practical de-cluttering: what to stop, delegate, or batch</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The L2 maturity characteristic is "clean pipes" — standardising and reducing leakage. This episode applies that principle to your personal workflow: where are deals, relationships, and decisions being delayed by noise?</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>Much of what currently generates commercial noise (status updates, meeting prep, inbox triage) is now AI-automatable. Building the discipline to identify and cut noise prepares you to systematically offload it.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">04</span>
+      <span class="badge badge-lmi">EPP · L4</span>
+      <span class="badge badge-mat">L2 → L3</span>
+      <span class="badge badge-dim">Collaboration</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>How You Communicate Is How You Operate</h3>
+    <p class="episode-premise">Commercial effectiveness depends on communication clarity. Understanding your own style — and adapting to others' — is a commercial skill, not a soft one.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>Communication self-evaluation: how do you show up in commercial conversations?</li>
+          <li>Reading team member communication styles and what this means for commercial alignment</li>
+          <li>The commercial cost of miscommunication — deals lost, decisions delayed, trust eroded</li>
+          <li>Building communication affirmations that reinforce cleaner, more direct commercial dialogue</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>Cross-functional value realization (the fifth maturity dimension) fails most often at the communication layer. This episode addresses it at the personal level — the origin point of all organizational communication.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI drafts communications but cannot replace your commercial judgment about what to say, to whom, and when. Strong communicators use AI to accelerate; weak communicators use it to avoid the hard conversation.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">05</span>
+      <span class="badge badge-lmi">EPP · L5</span>
+      <span class="badge badge-mat">L3</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>The Commercial Leverage Principle</h3>
+    <p class="episode-premise">Delegation is not a management technique — it is the core mechanism by which a commercial practitioner multiplies their impact beyond individual capacity.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The Empowerment Commitment: what does it mean to delegate with intention, not abdication?</li>
+          <li>Levels of delegation — from instruction to full autonomy — and when to use each</li>
+          <li>The delegation chart: mapping what can and should be redistributed across the commercial team</li>
+          <li>The delegation feedback log: tracking outcomes and adjusting over time</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>L3 maturity is about scalable execution. Delegation is how individual commercial capability becomes team commercial capability. Without it, the best commercial practitioner becomes a bottleneck, not a multiplier.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI can now execute a significant portion of execution-layer commercial work. The commercial leader who thinks in terms of delegation will find AI a natural extension of that operating model — another capability layer to deploy thoughtfully.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">06</span>
+      <span class="badge badge-lmi">EPP · L6</span>
+      <span class="badge badge-mat">L3</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Team Productivity as Commercial Infrastructure</h3>
+    <p class="episode-premise">Closing Group One: personal productivity scales when it becomes team productivity. Building team commitment, development plans, and meeting discipline as commercial infrastructure — not HR activity.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>Team commitment as a commercial asset — what a committed commercial team can execute vs. a compliant one</li>
+          <li>Position descriptions as value commitments: what does each role owe the commercial outcome?</li>
+          <li>Development planning as commercial investment, not annual appraisal ritual</li>
+          <li>Meeting discipline: the Meeting Planner as a commercial governance tool</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>Group One closes with the bridge from personal to team. The maturity model's Capability dimension measures this: can the team run autonomously, or does everything depend on one person? This episode establishes the foundation for Group Three's deeper treatment of team leadership.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>Meeting facilitation, development plan tracking, and team communication are all increasingly AI-assisted. The commercial leader's role shifts from administrator to architect — designing the system, not running every part of it.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- PILLAR II — THE LEADERSHIP IDENTITY -->
+  <!-- ============================================================ -->
+  <div class="pillar-header">
+    <p class="pillar-label">Group Two · Episodes 07–18 · Source: Effective Personal Leadership</p>
+    <h2>The Leadership Identity</h2>
+    <p>Twelve episodes on the inner architecture of a commercial leader — from unlocking untapped potential and self-knowledge, through purpose and planning, to the communicative and multiplicative skills that distinguish great leaders.</p>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">07</span>
+      <span class="badge badge-lmi">EPL · L1</span>
+      <span class="badge badge-mat">L1 → L2</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>The Unused Commercial Asset: You</h3>
+    <p class="episode-premise">The most underutilised asset in any commercial function is the unrealised potential of its people. This episode makes the case — and sets the frame for the twelve that follow.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The framework's opening insight: potential grows with goals — it doesn't diminish unless unused</li>
+          <li>The commercial implication: how much of the team's capability is currently deployed?</li>
+          <li>The difference between activity and impact in a commercial role</li>
+          <li>Why believing in potential is the prerequisite for developing it</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's Capability dimension asks: is our commercial team skilled, autonomous, and strategically impactful? This episode begins the answer by addressing the belief layer — the precondition for everything that follows.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI does not have potential in the human sense — it has parameters. The commercial practitioner's untapped potential is precisely what AI cannot replicate: judgment, relationships, creativity under ambiguity, and the ability to inspire. These are now the differentiating assets.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">08</span>
+      <span class="badge badge-lmi">EPL · L2</span>
+      <span class="badge badge-mat">L2</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Know Yourself, Lead Better</h3>
+    <p class="episode-premise">Self-knowledge is the foundation of commercial credibility. A practitioner who doesn't understand their own strengths, style, and blind spots cannot build the trust required to drive commercial outcomes across functions.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>Self-image and its commercial shadow: how beliefs about yourself shape how others experience you</li>
+          <li>Understanding unique strengths as a commercial differentiator — what do you bring that others can't easily replicate?</li>
+          <li>Learning styles and how they affect commercial decision-making and communication</li>
+          <li>The Johari Window applied to commercial relationships — what are others seeing that you're not?</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>Cross-functional commercial leadership fails when the commercial practitioner lacks the self-awareness to adapt. This episode builds the reflective capability required to influence Product, Finance, and Sales without formal authority.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI tools are emerging that can surface patterns in your own communication and decision-making. But the interpretive work — knowing what the pattern means and what to do about it — remains entirely human.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">09</span>
+      <span class="badge badge-lmi">EPL · L3</span>
+      <span class="badge badge-mat">L2</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Six Foundations Every Commercial Leader Needs</h3>
+    <p class="episode-premise">The development framework identifies six essentials of personal leadership — self-image, goals, attitudes, habits, relationships, and integrity. Each has a direct commercial correlate.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The six essentials and their commercial translations: what does each look like in a commercial role?</li>
+          <li>Habits as commercial infrastructure: the compounding power of consistent commercial behaviours</li>
+          <li>Integrity as commercial currency — how it determines access, trust, and influence across the business</li>
+          <li>Goal-directed action as the antidote to reactive commercial management (L1 → L2)</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's diagnostic frequently reveals that maturity gaps are actually personal leadership gaps dressed up as process gaps. L2 requires that people begin to own commercial outcomes — which only happens when individuals have internalised these six foundations.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>Integrity — doing what you said you would, being honest about what you don't know — is precisely what AI cannot model in a real commercial relationship. It remains the non-negotiable foundation.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">10</span>
+      <span class="badge badge-lmi">EPL · L4</span>
+      <span class="badge badge-mat">L2 → L3</span>
+      <span class="badge badge-dim">Process</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Own the Commercial Outcome</h3>
+    <p class="episode-premise">Personal responsibility is the bridge between L2 and L3 in the maturity model — the shift from following process to owning results. This episode explores what that shift requires internally.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>Why commercial accountability is personal before it is organisational</li>
+          <li>The responsibility gap: the distance between being assigned a task and owning the outcome</li>
+          <li>Removing the mental blockers to ownership: fear of failure, lack of clarity, absence of authority</li>
+          <li>What taking responsibility looks like in commercial cross-functional work — without formal power</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model asks: do functional leaders own commercial outcomes, or just delegate to us? That question begins with each commercial practitioner asking it of themselves first. You cannot ask others to own what you don't model yourself.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI will increasingly produce commercial outputs: proposals, analyses, pricing recommendations. Owning the outcome means owning the quality and judgement behind that output — not just pressing the button and forwarding the result.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">11</span>
+      <span class="badge badge-lmi">EPL · L5</span>
+      <span class="badge badge-mat">L3</span>
+      <span class="badge badge-dim">Strategy</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>The Commercial Leader's Purpose</h3>
+    <p class="episode-premise">Purpose is not a motivational concept — it is a navigational one. A commercial leader who knows their purpose makes better decisions, communicates with more conviction, and sustains performance across longer commercial cycles.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The framework's definition: purpose must go beyond self to be sustaining — and what that means in a commercial context</li>
+          <li>Finding the intersection: personal purpose, commercial role, and organisational mission at IFS</li>
+          <li>Albert Schweitzer's "cause bigger than self" applied to Group Commercial's value creation mandate</li>
+          <li>Writing your commercial purpose statement as a practical leadership tool, not an HR exercise</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's Strategy dimension begins with commercial clarity: "Is every initiative directly tied to revenue and EBITDA growth?" A leader with clear personal purpose is far more likely to pursue that clarity — it becomes a natural expression of how they work.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>Purpose is the filter that prevents AI-generated options from becoming noise. With more choices, insights, and outputs available than ever, the practitioner who knows what they're trying to achieve will act decisively. The one who doesn't will be paralysed by abundance.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">12</span>
+      <span class="badge badge-lmi">EPL · L6</span>
+      <span class="badge badge-mat">L3</span>
+      <span class="badge badge-dim">Strategy</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Plan the Path, Not Just the Destination</h3>
+    <p class="episode-premise">Goal-setting without planning is wishful thinking. This episode gives the commercial leader a structured approach to mapping the journey — professional and personal — with rigour and flexibility.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The framework's goal planning system: the six categories of a complete life plan and their commercial relevance</li>
+          <li>From dream list to action plan — the mechanism that converts aspiration to commitment</li>
+          <li>Time horizons in commercial planning: 90-day milestones inside 3-year trajectories</li>
+          <li>How planning commercially differs from corporate planning — and why both matter</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model requires that each commercial priority has a defined owner and success metric (L3 criteria). Personal planning is the rehearsal space for that discipline — before it becomes an expectation of the whole function.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI excels at generating options and scenarios. The commercial leader who has done the planning work knows which scenarios are worth generating — and can direct AI towards the right horizon rather than every horizon.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">13</span>
+      <span class="badge badge-lmi">EPL · L7</span>
+      <span class="badge badge-mat">L3</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>What Drives You Drives the Deal</h3>
+    <p class="episode-premise">Passion is commercially useful — not as performance, but as the source of the sustained energy that complex, long-cycle commercial work demands.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The distinction between manufactured enthusiasm and genuine commercial conviction</li>
+          <li>Identifying your commercial "ignition points" — the work that energises rather than depletes</li>
+          <li>How passion transmits in commercial relationships: what clients, partners, and internal stakeholders actually respond to</li>
+          <li>Reconnecting with passion when commercial work becomes primarily administrative</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>At L3 and above in the maturity model, commercial practitioners are expected to drive outcomes beyond their remit. That requires energy that comes from somewhere genuine. This episode helps locate it.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI will handle an increasing proportion of execution. The energy released should go somewhere purposeful. Knowing what you care about is the prerequisite for choosing where to direct it.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">14</span>
+      <span class="badge badge-lmi">EPL · L8</span>
+      <span class="badge badge-mat">L3</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>The Expectancy Effect in Commercial Life</h3>
+    <p class="episode-premise">Positive expectancy — the deep belief that a favourable outcome is achievable — is not optimism bias. It is a documented performance mechanism that shapes commercial behaviour before results arrive.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>William James on positive expectancy: belief engages the whole person, not just the intellect</li>
+          <li>The commercial situations where expectancy most impacts outcome: negotiation, internal influence, long-cycle deals</li>
+          <li>Distinguishing expectancy from overconfidence — and how the maturity model's honesty about current state enables genuine confidence</li>
+          <li>Building expectancy through evidence: how tracking small commercial wins compounds belief</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The most common failure mode at L2 is learned helplessness — "we can't change that." Positive expectancy is the antidote. It is also the precondition for the cross-functional influence that L3 and above demands.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>Commercial practitioners who expect AI to do the strategic thinking for them will underperform it. Those who expect to use it as leverage for their own thinking will find it multiplies their effectiveness. Expectancy shapes which of these you become.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">15</span>
+      <span class="badge badge-lmi">EPL · L9</span>
+      <span class="badge badge-mat">L3</span>
+      <span class="badge badge-dim">Process</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Persistence as Commercial Strategy</h3>
+    <p class="episode-premise">Most commercial failure is not strategic failure — it is persistence failure. The deals lost, the initiatives stalled, and the relationships not built are most often explained by giving up one conversation too soon.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The five obstacles to success identified in the framework and how each manifests in commercial work (fear, cynicism, laziness, bad habits, arrogance)</li>
+          <li>Persistence vs. stubbornness: when to hold the line and when to change the approach</li>
+          <li>The compounding commercial value of long-term relationship persistence</li>
+          <li>Systematic follow-through: turning persistence into process rather than personality</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>Moving from L2 to L3 requires sustained execution — "scalable execution" only scales when people persist through friction. This episode addresses the internal dimension of that requirement.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI can automate follow-up sequences but cannot replace the human judgment about when to persist, when to adapt, and when to stop. That judgment is worth cultivating carefully.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">16</span>
+      <span class="badge badge-lmi">EPL · L10</span>
+      <span class="badge badge-mat">L3 → L4</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>The Balanced Commercial Leader</h3>
+    <p class="episode-premise">Commercial performance that is sustained over years — rather than sprinted in quarters — requires balance. Not as a wellness concept, but as a performance architecture.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The framework's six life categories and the commercial leader's frequent neglect of all but one</li>
+          <li>The performance cost of imbalance — how it manifests in commercial decision quality and relationship durability</li>
+          <li>Building a personal "commercial sustainability" framework: what inputs sustain your commercial output?</li>
+          <li>The leadership modelling effect: what does your balance (or lack of it) communicate to the team?</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>L4 and above in the maturity model requires sustained, data-driven value capture — which demands consistent leader performance over time. Burnout is not a personal problem; it is a commercial risk. This episode frames it as such.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>As AI reduces the time cost of execution-layer work, the risk shifts: more thinking time, more decision-making pressure, more strategic weight on fewer people. Balance becomes more — not less — important.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">17</span>
+      <span class="badge badge-lmi">EPL · L11</span>
+      <span class="badge badge-mat">L3 → L4</span>
+      <span class="badge badge-dim">Collaboration</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Communication as Commercial Architecture</h3>
+    <p class="episode-premise">Great commercial leaders don't just communicate well — they architect commercial conversations that create shared understanding, build commitment, and move people to action.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The difference between transmitting information and creating commercial alignment</li>
+          <li>Listening as a commercial skill — what active listening reveals that speaking cannot</li>
+          <li>Framing commercial messages for different audiences (executive, technical, operational)</li>
+          <li>The communicative bridge to cross-functional influence: how language builds or destroys commercial trust</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's Collaboration dimension hinges on commercial fluency across functions. That fluency is expressed through communication. This is the most direct episode in the series on how commercial value is transmitted between people.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI generates commercially fluent text. The commercial leader's edge is knowing what to say, when, and to whom — and having the relationship credibility for it to land. Architecture, not execution, is the scarce skill.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">18</span>
+      <span class="badge badge-lmi">EPL · L12</span>
+      <span class="badge badge-mat">L4</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Multiplying Your Commercial Impact</h3>
+    <p class="episode-premise">Closing Group Two: the most effective commercial leaders are not the ones who do the most — they are the ones who develop others to do more. Self-multiplication through teaching, role-modelling, and empowerment is the final personal leadership skill.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>Lao Tzu's paradox: "When his work is done, his aim fulfilled, they will say: we did it ourselves"</li>
+          <li>The four-part multiplication strategy: integrity, role-modelling, people development, empowerment</li>
+          <li>Commercial multiplication in practice: what does it look like to multiply commercial capability across IFS?</li>
+          <li>Bridge to Group Three: the transition from personal leadership to motivational leadership of others</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's Capability dimension at L4 asks: can the team run independently? That only happens when leaders actively multiply. This episode closes Group Two with the outward turn — from developing yourself to developing others.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI tools can be deployed by individual commercial practitioners. But a leader who has multiplied their capability through others creates a commercial function where every person uses AI well. The multiplication effect compounds at every layer.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- PILLAR III — LEADING FOR COMMERCIAL RESULTS -->
+  <!-- ============================================================ -->
+  <div class="pillar-header">
+    <p class="pillar-label">Group Three · Episodes 19–26 · Source: Effective Motivational Leadership</p>
+    <h2>Leading for Commercial Results</h2>
+    <p>Eight episodes on what it means to lead a commercial team — vision, motivation, team-building, development, empowerment, and navigating change — through the lens of value creation and the maturity model's L3–L4 characteristics.</p>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">19</span>
+      <span class="badge badge-lmi">EML · L1</span>
+      <span class="badge badge-mat">L3</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>The Commercial Leadership Challenge</h3>
+    <p class="episode-premise">The Total Leader concept begins here — the recognition that great organisations need leaders at every level, not just the top. For Group Commercial, this means every team member is a commercial leader, not just those with manager titles.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The Total Leader framework: why commercial leadership development must be total, not fragmented</li>
+          <li>The challenge of becoming motivational: the the hardest transition in leadership</li>
+          <li>Values as the foundation of commercial leadership — the clarification exercise and its commercial implications</li>
+          <li>Assessing your current leadership strengths against the commercial demands of IFS</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's Capability dimension asks: are commercial practitioners leading autonomously and with strategic impact? This episode defines what that actually means at the team leadership level and sets the standard for Group Three.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>The demand for commercial leaders who can motivate, develop, and empower people is increasing, not decreasing, as AI handles more execution. The human layer of commercial leadership is becoming the scarcest and most valuable layer.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">20</span>
+      <span class="badge badge-lmi">EML · L2</span>
+      <span class="badge badge-mat">L3 → L4</span>
+      <span class="badge badge-dim">Strategy</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Vision, Voice, and Commercial Direction</h3>
+    <p class="episode-premise">A commercial leader without a clear organisational vision is navigating without a destination. This episode covers how to build, articulate, and communicate a compelling commercial vision — and why it drives execution at every level.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The organisational dream list — what would commercial success look like in 3 years at IFS?</li>
+          <li>From vision to vision statement: the craft of making the abstract commercially concrete</li>
+          <li>Implementing the vision: how commercial priorities flow from vision to action</li>
+          <li>Communication of vision to diverse commercial stakeholders — not one script, but one direction</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's Strategy dimension L3 criterion: "Priorities are cascaded to all relevant stakeholders with documented evidence." Vision is what makes cascading feel like direction rather than instruction.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>Vision is not AI-generatable — it requires judgment about what is possible, what matters, and what the organisation is capable of. AI can help explore scenarios, but the act of choosing a direction and owning it remains irreducibly human.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">21</span>
+      <span class="badge badge-lmi">EML · L3</span>
+      <span class="badge badge-mat">L3</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>The Anatomy of Motivational Leadership</h3>
+    <p class="episode-premise">What does it actually mean to motivate a commercial team — and how does motivation relate to performance? This episode examines the mechanism, not the mythology, of commercial motivation.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>Understanding the motivation needs of different commercial team members</li>
+          <li>The Motivation Plan: turning insight about what drives people into deliberate leadership practice</li>
+          <li>Goal-tracking as a motivational tool — visible progress drives further progress</li>
+          <li>Daily leadership disciplines that sustain team motivation across long commercial cycles</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's Capability dimension notes that commercial team maturity depends on "skilled, autonomous, and strategically impactful" practitioners. Motivation is the fuel for autonomy — without it, commercial accountability collapses into compliance.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI will increasingly handle commercial reporting and performance tracking. The commercial leader's focus shifts to the human interpretation layer — what does the data mean for each individual, and how do you use it to motivate rather than manage?</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">22</span>
+      <span class="badge badge-lmi">EML · L4</span>
+      <span class="badge badge-mat">L3 → L4</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Building the Commercial Team</h3>
+    <p class="episode-premise">High-performing commercial teams are designed, not assembled. This episode addresses team composition, role clarity, decision-making, and the problem-solving disciplines that characterise L3–L4 commercial functions.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>Team member roles in a commercial function: where Lencioni's team health framework meets the maturity model</li>
+          <li>Decision analysis in commercial contexts: the quality of commercial decisions as a team performance indicator</li>
+          <li>Self-rating for problem solving: is the team equipped to resolve commercial complexity independently?</li>
+          <li>Mid-point assessment: where is the team now, and what does the next maturity level require?</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The L4 maturity criterion asks: can functional leaders independently articulate how their work connects to commercial priorities? That only happens inside a team where roles, decisions, and problem-solving are explicitly developed. This episode builds that infrastructure.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI surfaces decision options; the commercial team's quality lies in evaluating, choosing, and committing to them. Teams that have practised structured decision-making will use AI-generated options well. Teams that haven't will be overwhelmed by them.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">23</span>
+      <span class="badge badge-lmi">EML · L5</span>
+      <span class="badge badge-mat">L4</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Developing People Commercially</h3>
+    <p class="episode-premise">Commercial development is not a training event — it is a continuous leadership discipline. This episode addresses how a commercial leader systematically identifies, plans, and executes team member development as a commercial investment.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>Identifying team member development needs against the commercial maturity model dimensions</li>
+          <li>Personal Development Plans as commercial tools: what capability gaps are costing the function revenue or margin?</li>
+          <li>The commercial coaching relationship: developing people without removing accountability</li>
+          <li>Connecting individual development to the commercial strategy — so it feels like career growth, not compliance</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's Capability dimension at L4: "% team members leading autonomously; skill gap closure rate." Development is not a nice-to-have — it is a measurable commercial metric. This episode reframes it as such.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI-powered learning platforms are rapidly personalising development content. The commercial leader's role is to set the development direction and hold the commercial accountability — not to design every learning experience from scratch.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">24</span>
+      <span class="badge badge-lmi">EML · L6</span>
+      <span class="badge badge-mat">L4</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Empowering Commercial Execution</h3>
+    <p class="episode-premise">Delegation was addressed at the personal level in Group One. This episode goes deeper — empowerment as a team architecture, including the delegation matrix, project management accountability, and the leadership conditions under which people genuinely take ownership.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The Empowerment and Delegation Chart: mapping commercial tasks against team capability and readiness</li>
+          <li>Delegation tracking and feedback: the discipline that separates empowerment from abdication</li>
+          <li>Project management as commercial empowerment — giving people the structure to succeed, not just the task</li>
+          <li>The leadership conditions for empowerment: psychological safety, clear objectives, feedback loops</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's Capability dimension is also the Team Maturity axis — "How skilled, autonomous, and strategically impactful is our commercial team?" Empowerment is the mechanism. This episode makes it systematic.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>Empowered team members who are given clear objectives and feedback loops are exactly the kind of principals who can use AI tools effectively. Micromanaged teams cannot — they wait for instructions rather than directing AI purposefully.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">25</span>
+      <span class="badge badge-lmi">EML · L7</span>
+      <span class="badge badge-mat">L4 → L5</span>
+      <span class="badge badge-dim">Strategy</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Leading Commercial Change</h3>
+    <p class="episode-premise">Commercial transformation — the shift between maturity levels — is a change leadership challenge as much as a strategic one. This episode equips commercial leaders to design, lead, and sustain change across functions.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The change cycle in commercial contexts: why the move from L2 to L3, or L3 to L4, feels like organisational disruption</li>
+          <li>Mastering change: the personal leadership dimension of commercial transformation</li>
+          <li>Leading through change: the team leadership dimension — maintaining motivation when process and structure shift</li>
+          <li>Innovation as a commercial leadership discipline: where does innovation fit in the maturity model journey?</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model describes L5 as "continuous, data-driven value capture." Getting there requires commercial change leadership sustained over years. This episode addresses the human and team challenges of that journey.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI is itself the most significant commercial change currently underway. The commercial leader who understands how to lead change will be far better equipped to guide their team through the AI transition — and to capitalise on it rather than be disrupted by it.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">26</span>
+      <span class="badge badge-lmi">EML · L8</span>
+      <span class="badge badge-mat">L5</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>The Future Commercial Leader</h3>
+    <p class="episode-premise">Closing Group Three: The framework's "leader of the future" concept applied to the commercial context — what attributes, habits, and orientations will define the most impactful commercial leaders over the next decade?</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The Total Leader arc: from personal productivity through to strategic leadership — what it takes to complete the journey</li>
+          <li>Reviewing leadership self-assessment: how has the profile changed since Episode 19?</li>
+          <li>Commercial leadership at L5: predictive, algorithmic, continuous — what that demands of the leaders inside it</li>
+          <li>Bridge to Group Four: the transition from leading a team to shaping an organisation</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The L5 maturity characteristic is "predictive and algorithmic." The future commercial leader operates with continuous insight, builds systems rather than solving problems, and leads the whole organisation's commercial capability, not just their own function.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>The future commercial leader is already arriving — and AI is part of the infrastructure they lead, not a tool they occasionally use. This episode frames the mindset required to lead commercially in that environment with clarity and confidence.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- PILLAR IV — COMMERCIAL STRATEGY -->
+  <!-- ============================================================ -->
+  <div class="pillar-header">
+    <p class="pillar-label">Group Four · Episodes 27–31 · Source: Effective Strategic Leadership</p>
+    <h2>Commercial Strategy at Scale</h2>
+    <p>Five episodes on strategic commercial leadership — from understanding the need for strategy and clarifying strategic purpose, through assessment and development of the total strategy map, to developing people and cascading strategy through the organisation.</p>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">27</span>
+      <span class="badge badge-lmi">ESL · L1 — Strategic Leadership</span>
+      <span class="badge badge-mat">L4 → L5</span>
+      <span class="badge badge-dim">Strategy</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>The Power of Strategic Commercial Leadership</h3>
+    <p class="episode-premise">Why strategy is not a planning exercise but a leadership practice — and what separates commercial leaders who shape their organisations from those who merely manage their functions. The opening premise: outstanding performance starts with recognising the need for strategy and understanding your role in it.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The distinction between managerial leadership and visionary leadership — and why commercial leaders need both</li>
+          <li>The institutional imperative (Buffett): the four forces that cause organisations to resist change, expand projects to consume available funds, ratify the leader's follies, and mindlessly imitate peers — the primary enemy of commercial strategy</li>
+          <li>Why most commercial strategy fails at implementation, not at design — and what that means for the leader's role</li>
+          <li>Tailwinds vs. headwinds: choosing where to compete matters more than how hard you compete — and the commercial leader's responsibility to read structural advantage honestly</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's Strategy dimension at L5: "Commercial strategy is a standing agenda item at executive/board level." This episode frames the journey to that standard — and why it starts with individual leadership behaviour, not a strategy document. Buffett's 50 years of letters make the same point from the investor's seat: the quality of the business environment you choose to operate in determines outcomes more than the skill of the execution within it.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI can generate strategic options with increasing sophistication. The commercial strategic leader's irreplaceable contribution is knowing which options to pursue, which to discard, and why — then holding the organisation to the chosen path. Strategy is still a human act.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">28</span>
+      <span class="badge badge-lmi">ESL · L2 — Strategic Purpose</span>
+      <span class="badge badge-mat">L4</span>
+      <span class="badge badge-dim">Strategy</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Defining Commercial Strategic Purpose</h3>
+    <p class="episode-premise">Developing the strategy and defining the strategic purpose of the commercial function — the why behind the what. Commitment to achievement and productivity flows from clarity about purpose. This episode moves from understanding the need for strategy to actually building it.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>Clarifying the strategic purpose of the commercial function at IFS — what are we here to do, specifically?</li>
+          <li>Integrating commercial strategy with personal and business goals: why alignment at every level matters</li>
+          <li>Leading from the front: how a strategic leader sets the example that cascades commitment downward</li>
+          <li>The commercial purpose statement as a leadership tool — not an HR exercise, but a strategic anchor</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>Paul J. Meyer: "The degree of success you achieve depends on the amount of purpose and desire you have." The maturity model's Strategy dimension requires documented, owned commercial priorities. This episode is where that ownership begins — with the leader's own clarity of purpose.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>Purpose is the filter that prevents AI-generated options from becoming noise. The commercial leader with a clear strategic purpose uses AI to explore and accelerate. Without it, AI generates options without direction — productivity without progress.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">29</span>
+      <span class="badge badge-lmi">ESL · L3 — Strategic Assessment</span>
+      <span class="badge badge-mat">L4</span>
+      <span class="badge badge-dim">Strategy</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>The Commercial Strategic Assessment</h3>
+    <p class="episode-premise">What does it mean to be a strategic leader in the real world, not the textbook? This episode covers the complete strategic assessment — identifying goals that matter, understanding what outstanding commercial performance actually looks like, and diagnosing the gap between current state and strategic ambition.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>Conducting a comprehensive commercial strategic assessment: where are we across the five maturity dimensions?</li>
+          <li>Circle of competence (Buffett): knowing what you know — and, crucially, where the boundary is. The size of the circle matters less than the honesty about its edges. Applied commercially: what markets, segments, and value propositions do we genuinely understand vs. merely assume?</li>
+          <li>Pricing power as the diagnostic (Buffett's See's Candy test): if you can raise prices without losing customers, you have a genuine commercial position. If you cannot, you are operating in a commodity dynamic regardless of what the strategy deck says</li>
+          <li>The strategic leader's role in the assessment: not just diagnosing the organisation, but honestly assessing their own readiness to lead it forward</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's Data dimension at L4: "Priorities are directly linked to quantified EBITDA/revenue impact with business cases." Strategic assessment is what generates those business cases — the rigorous, honest diagnostic that strategy is built on. Buffett's circle of competence concept applies directly: business cases built outside your genuine area of understanding tend to be optimistic rather than accurate.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI can now surface strategic assessment data at speed — market signals, competitive positioning, internal performance patterns. The strategic leader uses this to accelerate insight. But the interpretive judgment — what the data means for this organisation, in this moment — remains theirs.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">30</span>
+      <span class="badge badge-lmi">ESL · L4 — Strategic Development</span>
+      <span class="badge badge-mat">L4 → L5</span>
+      <span class="badge badge-dim">Strategy</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Building the Total Commercial Strategy</h3>
+    <p class="episode-premise">Combining vision and process to build the total strategy map. This episode is where commercial strategy moves from insight to architecture — developing strategic goals, understanding the impact of goals on behaviour, and building the commercial organisation around a coherent strategic direction.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The total strategy map: from ambitions through insights to priorities and action — applied to the commercial function</li>
+          <li>Consumer franchise vs. commodity (Buffett): two fundamentally different commercial positions that require fundamentally different strategies. Franchise businesses set prices based on value to the customer; commodity businesses set prices based on what competitors charge. Knowing which you are — honestly — is the foundation of sound commercial strategy</li>
+          <li>Wonderful business at a fair price vs. fair business at a wonderful price (Buffett): applied commercially — invest effort and resource in the segments and relationships where structural advantage exists, not in the ones that merely appear cheap to serve</li>
+          <li>Building the commercial organisation around the strategy: structure, roles, and capability decisions as strategic choices</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model at L4/L5 requires commercial strategy that is both precise (quantified, owned, traceable) and dynamic (adjusting based on performance data). Buffett's consumer franchise concept maps directly to the maturity model's Commercial Strategy and Value Design dimension: a high-maturity commercial function knows exactly what its franchise position is and builds strategy from there, rather than from imitation of competitors.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI can model the downstream impact of different strategic choices with increasing sophistication. The commercial leader who has built the Total Strategy Map uses AI to stress-test and refine — not to generate the strategy from scratch. The map is theirs; AI helps navigate it.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">31</span>
+      <span class="badge badge-lmi">ESL · L5 — Developing People</span>
+      <span class="badge badge-mat">L5</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Spreading Strategy Through the Commercial Organisation</h3>
+    <p class="episode-premise">Closing Group Four and the main series arc: strategy only exists when it is lived at every level of the organisation. This episode addresses how commercial leaders cascade strategy, build management systems, measure progress, and develop the people who will carry the strategy forward — and the series forward.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>Cascading commercial strategy through the organisation: what "spreading strategy" actually requires of a leader</li>
+          <li>Widening the moat (Buffett): every day, the competitive position of a commercial function grows either stronger or weaker. Delighting customers, eliminating unnecessary costs, and improving products and services widens the moat. Indifference and tolerated bloat narrows it. The cumulative effect of almost unnoticeable daily actions is enormous</li>
+          <li>Culture as the enduring commercial asset: the organisations Buffett most admires are those whose culture outlasts any individual leader. Commercial strategy embeds itself permanently only when it becomes culture — shared values and habits that no single departure can dislodge</li>
+          <li>Series synthesis: the full arc from personal productivity to strategic leadership — and what it looks like to be the commercial leader this series has been building toward</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's L5 characteristic: "continuous, data-driven value capture" and "commercial strategy as a standing board agenda item." Getting there requires strategy that is so well embedded in the organisation's operating rhythms that it no longer depends on any one person. Buffett's moat concept is the right mental model for this: the best commercial functions, like the best businesses, are widening their advantage continuously — not defending a static position.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI is the most powerful execution monitoring and management system now available to commercial leaders. But a management system only works if the strategy it measures is clear, owned, and cascaded. This episode closes the series by ensuring the human architecture is in place for AI to serve — not substitute for — commercial strategic leadership.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================ -->
+  <!-- PARALLEL TRACK — COACHING & EMPOWERMENT -->
+  <!-- ============================================================ -->
+  <div class="pillar-track">
+    <p class="pillar-label">Parallel Track · Episodes C1–C6 · Source: Effective Coaching and Empowerment</p>
+    <h2>Coaching &amp; Empowerment</h2>
+    <p>Six episodes for commercial leaders who also lead people directly. Runs alongside any group. Not required for individual contributors — but recommended for those who manage commercial teams, in parallel with Group Three or Group Four.</p>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">C1</span>
+      <span class="badge badge-ece">ECE · L1</span>
+      <span class="badge badge-mat">L3 → L4</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Coaching for Commercial Empowerment</h3>
+    <p class="episode-premise">The business case for coaching as a commercial leadership approach — and why empowerment is the strategy, not a virtue. Grounded in the principle that the most creative and productive work comes when people freely make commitments, not when the boss tells them what to do.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>Empowerment as commercial strategy: what organisations that empower their people achieve vs. those that manage them</li>
+          <li>The Empowerment Commitment: what does a commercial leader promise when they choose to coach rather than direct?</li>
+          <li>Coaching self-analysis: where are you currently on the coaching spectrum?</li>
+          <li>Setting commercial empowerment goals for the team</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>Jim Collins: "The most creative and productive work comes when people freely make commitments." The commercial implication: a coached, empowered commercial team outperforms a directed one at every maturity level above L2.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI-assisted coaching tools are emerging — but the foundational coaching relationship, built on genuine care and commercial accountability, is what makes them useful. Without that relationship, AI coaching is just an automated checklist.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">C2</span>
+      <span class="badge badge-ece">ECE · L2</span>
+      <span class="badge badge-mat">L3</span>
+      <span class="badge badge-dim">Collaboration</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Connection: The Foundation of Commercial Coaching</h3>
+    <p class="episode-premise">You cannot coach someone you don't understand. This episode covers how commercial leaders build the trust and rapport required for coaching conversations to actually change behaviour — rather than just occupying 45 minutes.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The listening skills required for commercial coaching: moving from transactional to genuinely curious</li>
+          <li>Building rapport with commercial team members across different styles, pressures, and career stages</li>
+          <li>The connection plan: practical steps to deepen your coaching relationships with each team member</li>
+          <li>Trust as a commercial asset: what high-trust commercial teams achieve that low-trust teams cannot</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>Cross-functional commercial success depends on trust at every layer. A commercial leader who models genuine connection internally creates the same standard for external relationships — with clients, partners, and cross-functional peers.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI can surface performance data about a team member. Connection is knowing what that data means for that specific person, and what they need to hear about it. The human insight layer is the coaching leader's irreplaceable contribution.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">C3</span>
+      <span class="badge badge-ece">ECE · L3</span>
+      <span class="badge badge-mat">L3</span>
+      <span class="badge badge-dim">Process</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Setting Clear Commercial Objectives</h3>
+    <p class="episode-premise">Coaching without clear objectives is conversation. This episode gives commercial leaders the tools to align team member goals with commercial priorities — so development and delivery point in the same direction.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>Identifying commercial objectives at the individual level — what does this team member own?</li>
+          <li>SMART goal-setting in commercial coaching: making the intangible tangible</li>
+          <li>Aligning personal development objectives with commercial maturity model dimensions</li>
+          <li>The coaching conversation about objectives: how to reach genuine commitment, not compliance</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's L3 criterion: "Each priority has a defined owner and success metric." This is true at the individual level too — the coaching conversation is where ownership and measurement are established, not assumed.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI will increasingly propose commercial objectives based on data patterns. The coaching leader's role is to help the team member understand those objectives in their context — and build the genuine commitment that drives follow-through rather than compliance.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">C4</span>
+      <span class="badge badge-ece">ECE · L4</span>
+      <span class="badge badge-mat">L3 → L4</span>
+      <span class="badge badge-dim">Process</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>The Commercial Action Plan</h3>
+    <p class="episode-premise">The coaching conversation produces a plan; the plan produces accountability; accountability produces results. This episode covers how to build commercial action plans with team members that stick — because they're owned, not assigned.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The coaching and empowerment plan: structure, timelines, and the discipline of breaking tasks into actionable steps</li>
+          <li>Leading by example as a coaching technique: integrity as the demonstration, not just the instruction</li>
+          <li>How to hold accountability without removing ownership — the coaching leader's tightrope</li>
+          <li>Reviewing the action plan: cadence, feedback, and adjustment as a coaching discipline</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's Process dimension at L3: "deals are structured with discipline, not ad hoc." Action planning in coaching is the same discipline at the individual development level — structure that enables autonomy, not restricts it.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI tools can now track plan progress, flag missed commitments, and surface patterns in execution. The coaching leader uses these as conversation starters, not surveillance instruments — the quality of the follow-through conversation is where the real development happens.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">C5</span>
+      <span class="badge badge-ece">ECE · L5</span>
+      <span class="badge badge-mat">L4</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>Building and Sustaining Commercial Commitment</h3>
+    <p class="episode-premise">Commitment is not the same as agreement. This episode explores the conditions under which commercial team members sustain commitment through difficulty, ambiguity, and commercial change — and how leaders build and maintain those conditions.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>Understanding what drives commitment for each team member — and why it differs</li>
+          <li>Mastering change from the coaching perspective: how to maintain team commitment when the commercial context shifts</li>
+          <li>The commitment evaluation: where are the fragile points in your team's engagement?</li>
+          <li>Team member commitment needs: building a personalised commitment model for each direct report</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>At L4 maturity, commercial execution depends on high-autonomy, high-commitment team members. Sustaining that commitment is a coaching discipline — not something that happens automatically when you set good objectives.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>AI-driven change is creating commitment challenges across commercial teams globally. Leaders who have developed the coaching capability to rebuild commitment through change will be significantly better placed to lead their functions through the current AI transition.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="episode">
+    <div class="episode-meta">
+      <span class="ep-number">C6</span>
+      <span class="badge badge-ece">ECE · L6</span>
+      <span class="badge badge-mat">L4 → L5</span>
+      <span class="badge badge-dim">Capability</span>
+      <span class="badge badge-draft">Draft</span>
+    </div>
+    <h3>When Teams Need Help — The Commercial Coaching Response</h3>
+    <p class="episode-premise">Closing the parallel track: what does a coaching commercial leader do when a team member is struggling? This episode covers performance coaching, constructive feedback, and the follow-through disciplines that distinguish leaders who develop people from those who replace them.</p>
+    <div class="episode-grid">
+      <div class="block">
+        <h4>Episode beats</h4>
+        <ul>
+          <li>The empowerment problem solver: how to diagnose and address commercial performance gaps through coaching</li>
+          <li>Coaching for improvement: the conversation model that preserves dignity and raises performance simultaneously</li>
+          <li>Giving effective commercial feedback: specific, evidence-based, and forward-looking</li>
+          <li>The coaching log and follow-up discipline: making development visible and accountable</li>
+        </ul>
+      </div>
+      <div class="block">
+        <h4>Commercial grounding</h4>
+        <p>The maturity model's Capability dimension asks: is skill gap closure happening systematically? Coaching for improvement is how gaps close at the individual level. Without it, the gap widens, and the function's commercial maturity stalls.</p>
+      </div>
+      <div class="ai-block">
+        <h4>AI lens</h4>
+        <p>Performance data will increasingly identify skill gaps and development opportunities automatically. The coaching conversation that turns that data into growth for the individual — preserving their agency and dignity — is the irreplaceable human layer in commercial talent development.</p>
+      </div>
+    </div>
+  </div>
+
+</div><!-- end .content -->
+
+<footer>
+  <p>COMMERCIAL LEADERSHIP IN THE AGE OF AI — SERIES FRAMEWORK &nbsp;·&nbsp; 38 EPISODES &nbsp;·&nbsp; 4 PILLARS + 1 PARALLEL TRACK &nbsp;·&nbsp; WORKING DOCUMENT — DRAFT JUNE 2026</p>
+  <p style="margin-top:8px;">Sources: Five-programme leadership development framework (Personal Productivity, Personal Leadership, Motivational Leadership, Strategic Leadership, Coaching and Empowerment) &nbsp;·&nbsp; IFS Commercial Maturity Model &nbsp;·&nbsp; Lencioni, Pietersen, Collins, Meyer, Leider, Newport, Buffett (Berkshire Hathaway Shareholder Letters 1977–2023). All episode scripts require original synthesis and IFS-specific finessing before recording.</p>
+</footer>
+
+</body>
+</html>
