@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Wednesday, July 8, 2026</title>
+      <description>Covering: TLDR Founders &lt;dan@tldrnewsletter.com&gt;, "William B. Irvine from How To Think More and Better" &lt;morebetterthinking@substack.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Nigel Walsh via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Ollama &lt;hello@ollama.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 14:03:38 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-07-08</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-08.m4a" type="audio/mp4" length="3293424"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Tuesday, July 7, 2026</title>
       <description>Covering: Steve from AI Clambake &lt;steve@aiclambake.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, TLDR Data &lt;dan@tldrnewsletter.com&gt;, Chris Williamson &lt;chris@chriswillx.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Dr Michelle Gibbings via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;</description>
       <pubDate>Tue, 07 Jul 2026 10:13:13 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 09 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-05-09</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-09.mp3" type="audio/mpeg" length="7751808"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Friday, May 8, 2026</title>
-      <description>Newsletter episode for Friday, 08 May 2026</description>
-      <pubDate>Fri, 08 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-05-08</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-08.mp3" type="audio/mpeg" length="7929648"/>
     </item>
   </channel>
 </rss>
