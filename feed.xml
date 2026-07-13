@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Monday, July 13, 2026</title>
+      <description>Covering: Google Alerts &lt;googlealerts-noreply@google.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Scaling Europe &lt;scaling-europe@mail.beehiiv.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Chris Williamson &lt;chris@chriswillx.com&gt;, Heather Cox Richardson and 250 to 250 from Letters from an American &lt;heathercoxrichardson@substack.com&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 09:57:48 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-07-13</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-13.m4a" type="audio/mp4" length="1512745"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Sunday, July 12, 2026</title>
       <description>Covering: Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;</description>
       <pubDate>Sun, 12 Jul 2026 10:07:59 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Thu, 14 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-05-14</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-14.m4a" type="audio/mp4" length="3865317"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Wednesday, May 13, 2026</title>
-      <description>Newsletter episode for Wednesday, 13 May 2026</description>
-      <pubDate>Wed, 13 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-05-13</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-13.mp3" type="audio/mpeg" length="6054336"/>
     </item>
   </channel>
 </rss>
