@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Tuesday, July 14, 2026</title>
+      <description>Covering: TLDR Fintech &lt;dan@tldrnewsletter.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Parallel Web Systems &lt;hello@updates.parallel.ai&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, a16z &lt;a16z@substack.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 07:09:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-07-14</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-14.m4a" type="audio/mp4" length="3411202"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Monday, July 13, 2026</title>
       <description>Covering: Google Alerts &lt;googlealerts-noreply@google.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Scaling Europe &lt;scaling-europe@mail.beehiiv.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Chris Williamson &lt;chris@chriswillx.com&gt;, Heather Cox Richardson and 250 to 250 from Letters from an American &lt;heathercoxrichardson@substack.com&gt;</description>
       <pubDate>Mon, 13 Jul 2026 09:57:48 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 15 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-05-15</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-15.mp3" type="audio/mpeg" length="7891632"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Thursday, May 14, 2026</title>
-      <description>Newsletter episode for Thursday, 14 May 2026</description>
-      <pubDate>Thu, 14 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-05-14</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-14.m4a" type="audio/mp4" length="3865317"/>
     </item>
   </channel>
 </rss>
