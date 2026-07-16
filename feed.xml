@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Thursday, July 16, 2026</title>
+      <description>Covering: Substack &lt;no-reply@substack.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Anthony Vicino &lt;av@anthonyvicino.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Parallel Web Systems &lt;hello@updates.parallel.ai&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 09:46:19 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-07-16</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-16.m4a" type="audio/mp4" length="2575959"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Wednesday, July 15, 2026</title>
       <description>Covering: TLDR IT &lt;dan@tldrnewsletter.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Nigel Walsh via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, a16z &lt;a16z@substack.com&gt;, "Forbes | Careers" &lt;leadership@email.forbes.com&gt;, Peter Hinssen via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, "Marc Randolph from Marc Randolph's Substack" &lt;marcrandolph@substack.com&gt;, "William B. Irvine from How To Think More and Better" &lt;morebetterthinking@substack.com&gt;</description>
       <pubDate>Wed, 15 Jul 2026 09:16:39 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 17 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-05-17</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-17.mp3" type="audio/mpeg" length="7389216"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Saturday, May 16, 2026</title>
-      <description>Newsletter episode for Saturday, 16 May 2026</description>
-      <pubDate>Sat, 16 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-05-16</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-16.mp3" type="audio/mpeg" length="8221536"/>
     </item>
   </channel>
 </rss>
