@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Saturday, July 18, 2026</title>
+      <description>Covering: Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, "Forbes | Under 30" &lt;under30@email.forbes.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 07:12:25 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-07-18</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-18.m4a" type="audio/mp4" length="3593062"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Friday, July 17, 2026</title>
       <description>Covering: Hiive &lt;noreply@app.hiive.com&gt;, TLDR Fintech &lt;dan@tldrnewsletter.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, The Substack Post &lt;post+unstacked@substack.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, TLDR Data &lt;dan@tldrnewsletter.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;</description>
       <pubDate>Fri, 17 Jul 2026 07:16:50 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Tue, 19 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-05-19</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-19.mp3" type="audio/mpeg" length="6561360"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Monday, May 18, 2026</title>
-      <description>Newsletter episode for Monday, 18 May 2026</description>
-      <pubDate>Mon, 18 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-05-18</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-18.mp3" type="audio/mpeg" length="6723072"/>
     </item>
   </channel>
 </rss>
