@@ -10,13 +10,13 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
-<item>
-  <title>Special Episode — Outcome-Based Pricing, Monday, July 20, 2026</title>
-  <description>A deep-dive special episode based on Good Better Best's practical guide to outcome-based pricing, covering definition, simulation, and billing explainability.</description>
-  <pubDate>Mon, 20 Jul 2026 09:00:00 +0100</pubDate>
-  <guid isPermaLink="false">newsletter-special-outcome-based-pricing-2026-07-20</guid>
-  <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/special-2026-07-20-outcome-based-pricing.m4a" type="audio/mp4" length="3437558"/>
-</item>
+    <item>
+      <title>Newsletter Digest — Tuesday, July 21, 2026</title>
+      <description>Covering: Hiive &lt;noreply@app.hiive.com&gt;, Dr Michelle Gibbings via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, a16z &lt;a16z@substack.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, "William B. Irvine from How To Think More and Better" &lt;morebetterthinking@substack.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 07:16:35 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-07-21</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-21.m4a" type="audio/mp4" length="2693007"/>
+    </item>
     <item>
       <title>Newsletter Digest — Monday, July 20, 2026</title>
       <description>Covering: Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Heather Cox Richardson and 250 to 250 from Letters from an American &lt;heathercoxrichardson@substack.com&gt;</description>
@@ -429,13 +429,6 @@
       <pubDate>Fri, 22 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-05-22</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-22.mp3" type="audio/mpeg" length="6860736"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Thursday, May 21, 2026</title>
-      <description>Newsletter episode for Thursday, 21 May 2026</description>
-      <pubDate>Thu, 21 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-05-21</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-21.mp3" type="audio/mpeg" length="7195824"/>
     </item>
   </channel>
 </rss>
