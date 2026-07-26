@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Sunday, July 26, 2026</title>
+      <description>Covering: StrictlyVC &lt;connie@strictlyvc.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, The Substack Post &lt;post+the-weekender@substack.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 07:03:19 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-07-26</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-26.m4a" type="audio/mp4" length="2594994"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Saturday, July 25, 2026</title>
       <description>Covering: "The Batch @ DeepLearning.AI" &lt;thebatch@deeplearning.ai&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, a16z &lt;a16z@substack.com&gt;</description>
       <pubDate>Sat, 25 Jul 2026 07:19:31 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 27 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-05-27</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-27.mp3" type="audio/mpeg" length="7018848"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Tuesday, May 26, 2026</title>
-      <description>Newsletter episode for Tuesday, 26 May 2026</description>
-      <pubDate>Tue, 26 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-05-26</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-26.mp3" type="audio/mpeg" length="7440624"/>
     </item>
   </channel>
 </rss>
