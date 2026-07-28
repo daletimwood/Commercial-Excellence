@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Tuesday, July 28, 2026</title>
+      <description>Covering: Tomas Pueyo from Uncharted Territories &lt;unchartedterritories@substack.com&gt;, Anthony Vicino &lt;av@anthonyvicino.com&gt;, Think at London Business School &lt;think@news.london.edu&gt;, Navals Archive &lt;navalsarchive@substack.com&gt;, a16z &lt;a16z@substack.com&gt;, Dr Michelle Gibbings via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 21:44:18 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-07-28</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-28.m4a" type="audio/mp4" length="2230932"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Monday, July 27, 2026</title>
       <description>Covering: Google Alerts &lt;googlealerts-noreply@google.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Heather Cox Richardson and 250 to 250 from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Navals Archive &lt;navalsarchive@substack.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;</description>
       <pubDate>Mon, 27 Jul 2026 07:10:22 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 29 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-05-29</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-29.mp3" type="audio/mpeg" length="6821856"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Thursday, May 28, 2026</title>
-      <description>Newsletter episode for Thursday, 28 May 2026</description>
-      <pubDate>Thu, 28 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-05-28</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-28.mp3" type="audio/mpeg" length="7245504"/>
     </item>
   </channel>
 </rss>
