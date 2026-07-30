@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Thursday, July 30, 2026</title>
+      <description>Covering: Substack &lt;no-reply@substack.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Ollama &lt;hello@ollama.com&gt;, DFRobot Service &lt;service@dfrobot.com&gt;, Nigel Walsh via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 08:17:25 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-07-30</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-30.m4a" type="audio/mp4" length="2376790"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Wednesday, July 29, 2026</title>
       <description>Covering: Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Tomas Pueyo from Uncharted Territories &lt;unchartedterritories@substack.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;</description>
       <pubDate>Wed, 29 Jul 2026 07:09:21 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 31 May 2026 21:14:50 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-05-31</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-31.mp3" type="audio/mpeg" length="2429424"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Saturday, May 30, 2026</title>
-      <description>Covering: Google Alerts &lt;googlealerts-noreply@google.com&gt;, Pete Trainor via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Marc Rubinstein from Net Interest &lt;netinterest@substack.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, TechCrunch Events &lt;noreply@techcrunch.com&gt;, "The Batch @ DeepLearning.AI" &lt;thebatch@deeplearning.ai&gt;, Newcomer &lt;newcomer@substack.com&gt;</description>
-      <pubDate>Sat, 30 May 2026 20:30:35 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-05-30</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-30.mp3" type="audio/mpeg" length="1723824"/>
     </item>
   </channel>
 </rss>
