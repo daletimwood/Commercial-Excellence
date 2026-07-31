@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Friday, July 31, 2026</title>
+      <description>Covering: Okta via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Tomas Pueyo from Uncharted Territories &lt;unchartedterritories@substack.com&gt;, Substack &lt;no-reply@substack.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 07:20:32 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-07-31</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-31.m4a" type="audio/mp4" length="3861016"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Thursday, July 30, 2026</title>
       <description>Covering: Substack &lt;no-reply@substack.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Ollama &lt;hello@ollama.com&gt;, DFRobot Service &lt;service@dfrobot.com&gt;, Nigel Walsh via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;</description>
       <pubDate>Thu, 30 Jul 2026 08:17:25 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Mon, 01 Jun 2026 12:02:07 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-06-01</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-01.mp3" type="audio/mpeg" length="3261888"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Sunday, May 31, 2026</title>
-      <description>Covering: Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Tomas Pueyo from Uncharted Territories &lt;unchartedterritories@substack.com&gt;</description>
-      <pubDate>Sun, 31 May 2026 21:14:50 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-05-31</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-05-31.mp3" type="audio/mpeg" length="2429424"/>
     </item>
   </channel>
 </rss>
