@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Saturday, August 1, 2026</title>
+      <description>Covering: Google Alerts &lt;googlealerts-noreply@google.com&gt;, Kirsten at TechCrunch Mobility &lt;newsletters@techcrunch.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, "Forbes | Under 30" &lt;under30@email.forbes.com&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 07:17:26 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-08-01</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-01.m4a" type="audio/mp4" length="2685402"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Friday, July 31, 2026</title>
       <description>Covering: Okta via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Tomas Pueyo from Uncharted Territories &lt;unchartedterritories@substack.com&gt;, Substack &lt;no-reply@substack.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;</description>
       <pubDate>Fri, 31 Jul 2026 07:20:32 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Tue, 02 Jun 2026 09:02:17 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-06-02</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-02.mp3" type="audio/mpeg" length="4290912"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Monday, June 1, 2026</title>
-      <description>Covering: Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Scaling Europe &lt;scaling-europe@mail.beehiiv.com&gt;, Clara from Prior Labs &lt;clara@priorlabs.ai&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, TLDR Data &lt;dan@tldrnewsletter.com&gt;, Ollama &lt;hello@ollama.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Chris Williamson &lt;chris@chriswillx.com&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 12:02:07 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-06-01</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-01.mp3" type="audio/mpeg" length="3261888"/>
     </item>
   </channel>
 </rss>
