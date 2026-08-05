@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Forward Commercial Practice</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Mono:wght@300;400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #000000;
+    --paper: #f0f4f8;
+    --cream: #e2e8f0;
+    --accent: #1e3a8a;
+    --accent-light: #eff6ff;
+    --accent-bright: #2563eb;
+    --accent-mid: #60a5fa;
+    --slate: #475569;
+    --rule: #cbd5e1;
+    --white: #ffffff;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    line-height: 1.7;
+  }
+
+  /* ── MASTHEAD ── */
+  .masthead {
+    background: var(--accent);
+    color: var(--paper);
+    padding: 60px 80px 50px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .masthead::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--accent-bright), var(--accent-mid), var(--accent-bright));
+  }
+
+  .masthead-rule {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--accent-mid);
+    margin-bottom: 20px;
+  }
+
+  .masthead h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(40px, 6vw, 68px);
+    font-weight: 700;
+    line-height: 1.05;
+    letter-spacing: -0.01em;
+    margin-bottom: 8px;
+    color: var(--white);
+  }
+
+  .masthead h1 em {
+    font-style: italic;
+    color: var(--accent-mid);
+  }
+
+  .masthead-sub {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    color: #cbd5e1;
+    letter-spacing: 0.03em;
+    margin-top: 16px;
+    max-width: 580px;
+    line-height: 1.6;
+  }
+
+  .masthead-meta {
+    display: flex;
+    gap: 48px;
+    margin-top: 40px;
+    padding-top: 28px;
+    border-top: 1px solid #2e4a8f;
+    flex-wrap: wrap;
+  }
+
+  .meta-item { display: flex; flex-direction: column; gap: 4px; }
+
+  .meta-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--accent-mid);
+  }
+
+  .meta-value {
+    font-size: 13px;
+    color: var(--white);
+    font-weight: 400;
+  }
+
+  /* ── SECTION BAND ── */
+  .band {
+    padding: 48px 80px;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .band-dark {
+    background: var(--accent);
+    color: var(--white);
+    border-bottom: none;
+  }
+
+  .band-cream {
+    background: var(--cream);
+  }
+
+  .band-white {
+    background: var(--white);
+  }
+
+  .section-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--accent-bright);
+    margin-bottom: 20px;
+    display: block;
+  }
+
+  .band-dark .section-label {
+    color: var(--accent-mid);
+  }
+
+  .section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(22px, 3vw, 30px);
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 20px;
+    color: var(--ink);
+  }
+
+  .band-dark .section-title {
+    color: var(--white);
+  }
+
+  .section-body {
+    font-size: 14px;
+    color: var(--slate);
+    line-height: 1.8;
+    max-width: 760px;
+  }
+
+  .band-dark .section-body {
+    color: #cbd5e1;
+  }
+
+  .section-body p { margin-bottom: 14px; }
+  .section-body p:last-child { margin-bottom: 0; }
+
+  .section-body strong {
+    color: var(--ink);
+    font-weight: 700;
+  }
+
+  .band-dark .section-body strong {
+    color: var(--white);
+  }
+
+  .section-body em { font-style: italic; }
+
+  /* ── WORD DIVIDER ── */
+  .word-divider {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin: 28px 0 0;
+    max-width: 760px;
+  }
+
+  .word-divider::before,
+  .word-divider::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--rule);
+  }
+
+  .word-divider span {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--accent-bright);
+    white-space: nowrap;
+  }
+
+  /* ── ARCHITECTURE GRID ── */
+  .arch-grid {
+    margin-top: 28px;
+    max-width: 900px;
+  }
+
+  .arch-row {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 32px;
+    padding: 24px 0;
+    border-bottom: 1px solid var(--rule);
+    align-items: start;
+  }
+
+  .arch-row:last-child { border-bottom: none; }
+
+  .arch-source-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: var(--ink);
+    display: block;
+    margin-bottom: 3px;
+  }
+
+  .arch-source-ref {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    color: var(--accent-bright);
+    font-style: italic;
+    letter-spacing: 0.05em;
+  }
+
+  .arch-body {
+    font-size: 13.5px;
+    color: var(--slate);
+    line-height: 1.75;
+  }
+
+  .arch-body em { font-style: italic; }
+
+  /* ── MODEL TIERS ── */
+  .model-grid {
+    margin-top: 28px;
+    max-width: 760px;
+  }
+
+  .model-row {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 24px;
+    padding: 20px 0;
+    border-bottom: 1px solid var(--rule);
+    align-items: baseline;
+  }
+
+  .model-row:last-child { border-bottom: none; }
+
+  .model-name {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--ink);
+    margin-bottom: 4px;
+    display: block;
+  }
+
+  .model-desc {
+    font-size: 13px;
+    color: var(--slate);
+    line-height: 1.65;
+  }
+
+  .model-badge {
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--accent-bright);
+    border: 1px solid var(--accent-bright);
+    background: var(--accent-light);
+    padding: 3px 10px;
+    white-space: nowrap;
+  }
+
+  /* ── FOOTER ── */
+  .footer {
+    background: var(--accent);
+    color: #94a3b8;
+    padding: 40px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+
+  .footer-left {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.15em;
+    line-height: 2;
+    text-transform: uppercase;
+  }
+
+  .footer-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    color: var(--accent-mid);
+    font-style: italic;
+    margin-bottom: 6px;
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+
+  .footer-note {
+    font-size: 12px;
+    max-width: 360px;
+    line-height: 1.65;
+    color: #cbd5e1;
+    font-style: italic;
+  }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 700px) {
+    .masthead, .band, .footer { padding: 40px 24px; }
+    .masthead-meta { gap: 24px; }
+    .arch-row { grid-template-columns: 1fr; gap: 8px; }
+    .model-row { grid-template-columns: 1fr; }
+    .model-badge { width: fit-content; }
+  }
+</style>
+</head>
+<body>
+
+<!-- MASTHEAD -->
+<div class="masthead">
+  <div class="masthead-rule">An anticipatory commercial intelligence and infrastructure practice</div>
+  <h1>The <em>Forward</em> Commercial Practice</h1>
+  <div class="masthead-sub">Retained as a practice. Installed before urgency, on behalf of a small number of organisations at a time.</div>
+  <div class="masthead-meta">
+    <div class="meta-item">
+      <span class="meta-label">Structure</span>
+      <span class="meta-value">Retained Practice</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Intellectual framework</span>
+      <span class="meta-value">Heffernan · McGrath · Toufani · Agnotology</span>
+    </div>
+  </div>
+</div>
+
+<!-- EXPLAINER -->
+<div class="band band-white">
+  <span class="section-label">The Practice at 50,000 Feet</span>
+  <div class="section-title">Most commercial interventions arrive too late.</div>
+  <div class="section-body">
+    <p>As AI compresses reaction time across all industries, the window between an inflection signal becoming visible and that inflection being priced in by competitors is collapsing to months, not years. By the time an organisation recognises that its model is obsolete or its position has eroded, the window for low-cost correction has already closed.</p>
+    <p>We work with a small number of organisations at a time, retained as a practice. We begin <strong>before</strong> urgency, mapping commercial blind spots, building infrastructure such as dynamic deal scoring, AI pricing models and company AI revenue transparency frameworks, or restructuring how value is captured as business models shift. We detect inflection signals at the edges of the competitive arena and sometimes lead deal pursuits for deals that matter most, before corner cases become crises.</p>
+    <p>The result is a transformed commercial posture, installed before the market forces the question.</p>
+    <p>This is what we mean by forward.</p>
+  </div>
+</div>
+
+<!-- STRATEGIC ARCHITECTURE -->
+<div class="band band-cream">
+  <span class="section-label">Our Strategic Architecture</span>
+  <div class="section-title">Four intellectual threads, shaken together.</div>
+  <div class="section-body">
+    <p>Each thread does a different job. Together they form something forward-facing.</p>
+  </div>
+  <div class="arch-grid">
+
+    <div class="arch-row">
+      <div>
+        <span class="arch-source-name">Heffernan</span>
+        <span class="arch-source-ref">Uncharted</span>
+      </div>
+      <div class="arch-body">Provides the philosophical licence. The future is not foreseeable, so the practitioner's job is not prediction. It is <em>rehearsal capacity</em>. Our customers don't need a forecast. They need their organisation to practise navigating ambiguity before the ambiguity becomes a burning platform. The fractional model enables this because the practitioner holds simultaneous vantage points across multiple organisations, and cross-pattern recognition that an embedded exec structurally cannot access.</div>
+    </div>
+
+    <div class="arch-row">
+      <div>
+        <span class="arch-source-name">McGrath</span>
+        <span class="arch-source-ref">Seeing Around Corners</span>
+      </div>
+      <div class="arch-body">Provides the operational mechanism: inflection point detection at the arena edge. The key question is what factors prevent organisations from anticipating and responding to disruptions. McGrath's answer is that they're watching their industry, not the edges of adjacent arenas where the inflection is forming. The fractional practitioner's job is to sit at <em>those</em> edges on our customers' behalf.</div>
+    </div>
+
+    <div class="arch-row">
+      <div>
+        <span class="arch-source-name">Toufani</span>
+        <span class="arch-source-ref">T-Labs / Exonomics™</span>
+      </div>
+      <div class="arch-body">Provides the measurability layer. The Adaptability Quotient (AQ) is defined as the ability to realise optimal outcomes in response to change. Critically, Toufani's Exonomics framework offers predictive models for the impact of accelerating technologies on individuals, businesses, and nations. That's the missing ingredient most commercial advisory lacks: a quantified baseline for organisational adaptability <em>before</em> the intervention, and a measurable delta <em>after</em>.</div>
+    </div>
+
+    <div class="arch-row">
+      <div>
+        <span class="arch-source-name">Agnotology</span>
+        <span class="arch-source-ref">The study of structured ignorance</span>
+      </div>
+      <div class="arch-body">Provides the epistemic architecture. The formal study of structured ignorance, what organisations <em>don't know they don't know</em>, is the diagnostic entry point. The practitioner's first act is not to audit the commercial strategy. It is to map the <em>ignorance topology</em>: where are the blind spots baked into the current model, and which of them carry asymmetric downside if they remain unexamined past a certain inflection?</div>
+    </div>
+
+  </div>
+</div>
+
+<!-- COMMERCIAL MODEL -->
+<div class="band band-white">
+  <span class="section-label">Our Commercial Model</span>
+  <div class="section-title">Three layers. No day rates.</div>
+  <div class="section-body">
+    <p>The commercial model that flows from this has three pricing layers.</p>
+  </div>
+  <div class="model-grid">
+
+    <div class="model-row">
+      <div>
+        <span class="model-name">Retained Signal Monitoring &amp; Diagnostic</span>
+        <span class="model-desc">A retained signal-monitoring and diagnostic function. Low, recurring. The always-on layer, continuously mapping the edge of the arena on behalf of the client.</span>
+      </div>
+      <span class="model-badge">Retained</span>
+    </div>
+
+    <div class="model-row">
+      <div>
+        <span class="model-name">Inflection Response Sprint</span>
+        <span class="model-desc">When a signal converts to a trigger. Time-bounded, high-intensity, outcome-defined. Activated by the moment, not by internal urgency.</span>
+      </div>
+      <span class="model-badge">Project</span>
+    </div>
+
+    <div class="model-row">
+      <div>
+        <span class="model-name">Adaptive Capacity Programme</span>
+        <span class="model-desc">Measurable before and after. The deliverable is a transformed organisational posture toward commercial uncertainty.</span>
+      </div>
+      <span class="model-badge">Transformation</span>
+    </div>
+
+  </div>
+</div>
+
+<!-- CONFIDENTIALITY -->
+<div class="band band-dark">
+  <span class="section-label">On Confidence and Confidentiality</span>
+  <div class="section-title">The practice is built on discretion as much as diagnosis.</div>
+  <div class="section-body">
+    <p>What we learn inside one organisation stays there, unless explicit permission exists to do otherwise. Sometimes, sharing transformational stories is itself a source of competitive advantage. That decision belongs to the client, not to us.</p>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<div class="footer">
+  <div class="footer-left">
+    <div class="footer-title">The Forward Commercial Practice</div>
+  </div>
+  <div class="footer-note">
+    Shaken together from Heffernan, McGrath, Toufani, and the formal study of what organisations don't know they don't know.
+  </div>
+</div>
+
+</body>
+</html>
