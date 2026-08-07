@@ -11,6 +11,20 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Friday, August 7, 2026</title>
+      <description>Covering: "The Batch @ DeepLearning.AI" &lt;thebatch@deeplearning.ai&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, a16z &lt;a16z@substack.com&gt;, The Substack Post &lt;post+unstacked@substack.com&gt;, Substack &lt;no-reply@substack.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, TechCrunch Disrupt &lt;noreply@techcrunch.com&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 07:22:45 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-08-07</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-07.m4a" type="audio/mp4" length="3212972"/>
+    </item>
+    <item>
+      <title>Newsletter Digest — Thursday, August 6, 2026</title>
+      <description>Covering: TLDR IT &lt;dan@tldrnewsletter.com&gt;, TechCrunch Disrupt &lt;noreply@techcrunch.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, a16z &lt;a16z@substack.com&gt;, Prior Labs Team &lt;hello@priorlabs.ai&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 09:27:59 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-08-06</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-06.m4a" type="audio/mp4" length="3097368"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Sunday, August 2, 2026</title>
       <description>Covering: Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Nigel Walsh via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, The Substack Post &lt;post+the-weekender@substack.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;</description>
       <pubDate>Sun, 02 Aug 2026 18:30:14 +0100</pubDate>
@@ -415,20 +429,6 @@
       <pubDate>Fri, 05 Jun 2026 08:01:25 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-06-05</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-05.mp3" type="audio/mpeg" length="4759344"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Thursday, June 4, 2026</title>
-      <description>Daily newsletter digest</description>
-      <pubDate>Thu, 04 Jun 2026 07:40:26 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-06-04</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-04.mp3" type="audio/mpeg" length="3150288"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Wednesday, June 3, 2026</title>
-      <description>Daily newsletter digest</description>
-      <pubDate>Wed, 03 Jun 2026 07:35:18 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-06-03</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-03.mp3" type="audio/mpeg" length="4891680"/>
     </item>
   </channel>
 </rss>
