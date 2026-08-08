@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Saturday, August 8, 2026</title>
+      <description>Covering: Flipboard &lt;editorialstaff@flipboard.com&gt;, Termius News &lt;no-reply@news.termius.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Ollama &lt;hello@ollama.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Raspberry Pi Weekly &lt;weekly@raspberrypi.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 07:13:17 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-08-08</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-08.m4a" type="audio/mp4" length="2500461"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Friday, August 7, 2026</title>
       <description>Covering: "The Batch @ DeepLearning.AI" &lt;thebatch@deeplearning.ai&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, a16z &lt;a16z@substack.com&gt;, The Substack Post &lt;post+unstacked@substack.com&gt;, Substack &lt;no-reply@substack.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, TechCrunch Disrupt &lt;noreply@techcrunch.com&gt;</description>
       <pubDate>Fri, 07 Aug 2026 07:22:45 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 06 Jun 2026 07:40:49 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-06-06</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-06.mp3" type="audio/mpeg" length="3709872"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Friday, June 5, 2026</title>
-      <description>Daily newsletter digest</description>
-      <pubDate>Fri, 05 Jun 2026 08:01:25 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-06-05</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-05.mp3" type="audio/mpeg" length="4759344"/>
     </item>
   </channel>
 </rss>
