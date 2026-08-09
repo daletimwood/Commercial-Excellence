@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Sunday, August 9, 2026</title>
+      <description>Covering: Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, The Substack Post &lt;post+the-weekender@substack.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 07:01:37 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-08-09</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-09.m4a" type="audio/mp4" length="3493461"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Saturday, August 8, 2026</title>
       <description>Covering: Flipboard &lt;editorialstaff@flipboard.com&gt;, Termius News &lt;no-reply@news.termius.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Ollama &lt;hello@ollama.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Raspberry Pi Weekly &lt;weekly@raspberrypi.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;</description>
       <pubDate>Sat, 08 Aug 2026 07:13:17 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 07 Jun 2026 07:43:03 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-06-07</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-07.mp3" type="audio/mpeg" length="4222512"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Saturday, June 6, 2026</title>
-      <description>Daily newsletter digest</description>
-      <pubDate>Sat, 06 Jun 2026 07:40:49 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-06-06</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-06.mp3" type="audio/mpeg" length="3709872"/>
     </item>
   </channel>
 </rss>
