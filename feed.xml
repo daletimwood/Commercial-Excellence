@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Monday, August 10, 2026</title>
+      <description>Covering: Google Alerts &lt;googlealerts-noreply@google.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Heather Cox Richardson and 250 to 250 from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, "William B. Irvine from How To Think More and Better" &lt;morebetterthinking@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;</description>
+      <pubDate>Mon, 10 Aug 2026 07:11:04 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-08-10</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-10.m4a" type="audio/mp4" length="2333803"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Sunday, August 9, 2026</title>
       <description>Covering: Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, The Substack Post &lt;post+the-weekender@substack.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;</description>
       <pubDate>Sun, 09 Aug 2026 07:01:37 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Mon, 08 Jun 2026 08:13:58 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-06-08</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-08.mp3" type="audio/mpeg" length="4057920"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Sunday, June 7, 2026</title>
-      <description>Daily newsletter digest</description>
-      <pubDate>Sun, 07 Jun 2026 07:43:03 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-06-07</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-07.mp3" type="audio/mpeg" length="4222512"/>
     </item>
   </channel>
 </rss>
