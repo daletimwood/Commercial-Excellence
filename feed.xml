@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Wednesday, August 12, 2026</title>
+      <description>Covering: Hiive &lt;opportunities@mail.hiive.com&gt;, "Forbes | Careers" &lt;leadership@email.forbes.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, UkraineAlert &lt;ukrainealert@atlanticcouncil.org&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Mike Allen &lt;mike@axios.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 09:17:53 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-08-12</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-12.m4a" type="audio/mp4" length="3284840"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Tuesday, August 11, 2026</title>
       <description>Covering: Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Scaling Europe &lt;scaling-europe@mail.beehiiv.com&gt;, Dr Michelle Gibbings via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, TLDR Founders &lt;dan@tldrnewsletter.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;</description>
       <pubDate>Tue, 11 Aug 2026 07:23:00 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 10 Jun 2026 07:53:34 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-06-10</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-10.mp3" type="audio/mpeg" length="4951440"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Tuesday, June 9, 2026</title>
-      <description>Daily newsletter digest</description>
-      <pubDate>Tue, 09 Jun 2026 07:41:03 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-06-09</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-09.mp3" type="audio/mpeg" length="5046336"/>
     </item>
   </channel>
 </rss>
