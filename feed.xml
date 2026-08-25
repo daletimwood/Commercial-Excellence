@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Tuesday, August 25, 2026</title>
+      <description>Covering: TLDR Data &lt;dan@tldrnewsletter.com&gt;, Axios Energy &lt;energy@axios.com&gt;, Dan Primack &lt;dan@axios.com&gt;, Dr Michelle Gibbings via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, AC Intel &lt;editor@atlanticcouncil.org&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Axios Macro &lt;macro@axios.com&gt;, Atlantic Council editors &lt;editor@atlanticcouncil.org&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 06:46:25 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-08-25</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-25.m4a" type="audio/mp4" length="1660342"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Monday, August 24, 2026</title>
       <description>Covering: Google Alerts &lt;googlealerts-noreply@google.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Heather Cox Richardson and 250 to 250 from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Nigel Walsh via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Mike Allen &lt;mike@axios.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;</description>
       <pubDate>Mon, 24 Aug 2026 06:43:36 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Mon, 22 Jun 2026 08:08:28 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-06-22</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-22.mp3" type="audio/mpeg" length="3576816"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Sunday, June 21, 2026</title>
-      <description>Covering: The Substack Post &lt;post+the-weekender@substack.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, The Free Press &lt;bariweiss+free-press-events@substack.com&gt;, The Free Press &lt;bariweiss+the-weekend-press@substack.com&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 10:36:03 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-06-21</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-21.mp3" type="audio/mpeg" length="3625344"/>
     </item>
   </channel>
 </rss>
