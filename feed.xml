@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Monday, August 31, 2026</title>
+      <description>Covering: Axios &lt;newsletters@axios.com&gt;, Heather Cox Richardson and 250 to 250 from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, The Substack Post &lt;post@substack.com&gt;, Brett Queener from Tales from The Bonfire &lt;queener@substack.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 06:50:51 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-08-31</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-31.m4a" type="audio/mp4" length="2806609"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Sunday, August 30, 2026</title>
       <description>Covering: The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;, "Hemma R. Lomax, Ph.D via LinkedIn" &lt;newsletters-noreply@linkedin.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, The Substack Post &lt;post+the-weekender@substack.com&gt;</description>
       <pubDate>Sun, 30 Aug 2026 06:36:52 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 28 Jun 2026 08:16:45 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-06-28</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-28.mp3" type="audio/mpeg" length="2852640"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Saturday, June 27, 2026</title>
-      <description>Covering: TLDR IT &lt;dan@tldrnewsletter.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Kirsten at TechCrunch Mobility &lt;newsletters@techcrunch.com&gt;, a16z &lt;a16z@substack.com&gt;, Marc Rubinstein from Net Interest &lt;netinterest@substack.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 08:14:11 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-06-27</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-06-27.mp3" type="audio/mpeg" length="4046256"/>
     </item>
   </channel>
 </rss>
