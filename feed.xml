@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Monday, September 7, 2026</title>
+      <description>Covering: Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Heather Cox Richardson and 250 to 250 from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Mike Allen &lt;mike@axios.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Kirsten at TechCrunch Mobility &lt;newsletters@techcrunch.com&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 06:45:52 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-09-07</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-07.m4a" type="audio/mp4" length="2235163"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Sunday, September 6, 2026</title>
       <description>Covering: Parallel Web Systems &lt;hello@updates.parallel.ai&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Ollama &lt;hello@ollama.com&gt;, Mike Allen &lt;mike@axios.com&gt;, The Substack Post &lt;post+the-weekender@substack.com&gt;, Kirsten at TechCrunch Mobility &lt;newsletters@techcrunch.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, "European Stability Initiative (ESI)" &lt;newsletter@esiweb.org&gt;</description>
       <pubDate>Sun, 06 Sep 2026 06:39:21 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Mon, 06 Jul 2026 09:51:05 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-07-06</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-06.m4a" type="audio/mp4" length="3205117"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Sunday, July 5, 2026</title>
-      <description>Covering: Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Tim Wears on Substack &lt;no-reply@substack.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 07:33:56 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-07-05</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-05.mp3" type="audio/mpeg" length="2613168"/>
     </item>
   </channel>
 </rss>
