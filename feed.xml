@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Saturday, September 12, 2026</title>
+      <description>Covering: Amos Bar Joseph &lt;swan-ai@mail.beehiiv.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Axios Energy &lt;energy@axios.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, a16z &lt;a16z@substack.com&gt;, The Free Press &lt;bariweiss+the-front-page@substack.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 08:09:31 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-09-12</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-12.m4a" type="audio/mp4" length="1699279"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Friday, September 11, 2026</title>
       <description>Covering: The Atlantic Council Team &lt;events@atlanticcouncil.org&gt;, Substack &lt;no-reply@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Axios Energy &lt;energy@axios.com&gt;, UkraineAlert &lt;ukrainealert@atlanticcouncil.org&gt;, Axios Closer &lt;closer@axios.com&gt;</description>
       <pubDate>Fri, 11 Sep 2026 06:53:02 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 11 Jul 2026 16:31:27 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-07-11</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-11.m4a" type="audio/mp4" length="2650107"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Friday, July 10, 2026</title>
-      <description>Covering: StrictlyVC &lt;connie@strictlyvc.com&gt;, TLDR Fintech &lt;dan@tldrnewsletter.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Substack &lt;no-reply@substack.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Ollama &lt;hello@ollama.com&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 07:15:41 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-07-10</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-10.m4a" type="audio/mp4" length="3707839"/>
     </item>
   </channel>
 </rss>
