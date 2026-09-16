@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Wednesday, September 16, 2026</title>
+      <description>Covering: Caroline Osborne &lt;news@intellegens.com&gt;, Harvard Business Review &lt;emailteam@emails.hbr.org&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, UkraineAlert &lt;ukrainealert@atlanticcouncil.org&gt;, Clara &lt;clara@priorlabs.ai&gt;, "Forbes | The Wiretap" &lt;tbrewsterforbes.com@email.forbes.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 14:08:34 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-09-16</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-16.m4a" type="audio/mp4" length="2284950"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Tuesday, September 15, 2026</title>
       <description>Covering: Chris Williamson &lt;chris@chriswillx.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, "Aarron &amp; Eli from Design Better" &lt;thecuriositydepartment@substack.com&gt;, Software Synthesis by Akash Bajwa &lt;akashbajwa@substack.com&gt;, Claude Cowork &lt;claudedesktop@substack.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, The Monday Mindhack &lt;info@michaelmcqueen.net&gt;</description>
       <pubDate>Tue, 15 Sep 2026 06:41:03 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 15 Jul 2026 09:16:39 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-07-15</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-15.m4a" type="audio/mp4" length="1846039"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Tuesday, July 14, 2026</title>
-      <description>Covering: TLDR Fintech &lt;dan@tldrnewsletter.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Parallel Web Systems &lt;hello@updates.parallel.ai&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, a16z &lt;a16z@substack.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 07:09:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-07-14</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-14.m4a" type="audio/mp4" length="3411202"/>
     </item>
   </channel>
 </rss>
