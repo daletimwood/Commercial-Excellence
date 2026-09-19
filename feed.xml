@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Saturday, September 19, 2026</title>
+      <description>Covering: Axios Closer &lt;closer@axios.com&gt;, Pete Trainor via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Clara &lt;clara@priorlabs.ai&gt;, Joann Muller &lt;events@axios.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Good Better Best by PricingSaaS &lt;goodbetterbest@mail.beehiiv.com&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 06:37:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-09-19</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-19.m4a" type="audio/mp4" length="1445960"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Friday, September 18, 2026</title>
       <description>Covering: Axios Closer &lt;closer@axios.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Transatlantic Security Initiative &lt;events@atlanticcouncil.org&gt;, Barak Ravid &lt;barak.ravid@axios.com&gt;, Axios Live &lt;events@axios.com&gt;, Dan Primack &lt;dan@axios.com&gt;, "Axios AI+" &lt;ai.plus@axios.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;</description>
       <pubDate>Fri, 18 Sep 2026 09:17:14 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 18 Jul 2026 07:12:25 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-07-18</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-18.m4a" type="audio/mp4" length="3593062"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Friday, July 17, 2026</title>
-      <description>Covering: Hiive &lt;noreply@app.hiive.com&gt;, TLDR Fintech &lt;dan@tldrnewsletter.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, The Substack Post &lt;post+unstacked@substack.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, TLDR Data &lt;dan@tldrnewsletter.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 07:16:50 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-07-17</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-17.m4a" type="audio/mp4" length="2466974"/>
     </item>
   </channel>
 </rss>
