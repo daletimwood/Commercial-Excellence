@@ -11,6 +11,20 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Special Episode — How China Thinks About AI</title>
+      <description>Derek Thompson's interviews with China-AI experts, plus Matt Sheehan on US-China AI safety.</description>
+      <pubDate>Thu, 24 Sep 2026 18:08:31 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-special-how-china-sees-ai-2026-09-24</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/special-2026-09-24-how-china-sees-ai.m4a" type="audio/mp4" length="3387701"/>
+    </item>
+    <item>
+      <title>Special Episode — Outcome-Based Pricing</title>
+      <description>George Kats's three learnings on outcome-based pricing, via PricingSaaS's Good Better Best.</description>
+      <pubDate>Thu, 24 Sep 2026 18:07:31 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-special-outcome-based-pricing-2026-07-20</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/special-2026-07-20-outcome-based-pricing.m4a" type="audio/mp4" length="3450005"/>
+    </item>
+    <item>
       <title>Newsletter Digest — Thursday, September 24, 2026</title>
       <description>Covering: "Alia Brahimi, Atlantic Council Middle East Programs" &lt;hariricenter@atlanticcouncil.org&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, Nigel Walsh via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Dan Primack &lt;dan@axios.com&gt;</description>
       <pubDate>Thu, 24 Sep 2026 06:39:36 +0100</pubDate>
@@ -415,20 +429,6 @@
       <pubDate>Sat, 25 Jul 2026 07:19:31 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-07-25</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-25.m4a" type="audio/mp4" length="2066586"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Friday, July 24, 2026</title>
-      <description>Covering: "William B. Irvine from How To Think More and Better" &lt;morebetterthinking@substack.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, TLDR Fintech &lt;dan@tldrnewsletter.com&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 07:14:47 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-07-24</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-24.m4a" type="audio/mp4" length="2586773"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Thursday, July 23, 2026</title>
-      <description>Covering: TLDR &lt;dan@tldrnewsletter.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, TLDR Founders &lt;dan@tldrnewsletter.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 07:16:36 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-07-23</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-23.m4a" type="audio/mp4" length="1922419"/>
     </item>
   </channel>
 </rss>
