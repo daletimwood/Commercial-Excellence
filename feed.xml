@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Newsletter Digest — Friday, September 25, 2026</title>
+      <description>Covering: Sara Fischer &lt;sara@axios.com&gt;, Axios Closer &lt;closer@axios.com&gt;, Substack &lt;no-reply@substack.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, "Axios AI+" &lt;ai.plus@axios.com&gt;, Mike Allen &lt;mike@axios.com&gt;, The Atlantic Council Team &lt;events@atlanticcouncil.org&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 06:41:54 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-09-25</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-25.m4a" type="audio/mp4" length="2179493"/>
+    </item>
+    <item>
       <title>Special Episode — How China Thinks About AI</title>
       <description>Derek Thompson's interviews with China-AI experts, plus Matt Sheehan on US-China AI safety.</description>
       <pubDate>Thu, 24 Sep 2026 18:08:31 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 26 Jul 2026 07:03:19 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-07-26</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-26.m4a" type="audio/mp4" length="2594994"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Saturday, July 25, 2026</title>
-      <description>Covering: "The Batch @ DeepLearning.AI" &lt;thebatch@deeplearning.ai&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, a16z &lt;a16z@substack.com&gt;</description>
-      <pubDate>Sat, 25 Jul 2026 07:19:31 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-07-25</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-25.m4a" type="audio/mp4" length="2066586"/>
     </item>
   </channel>
 </rss>
