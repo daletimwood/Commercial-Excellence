@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Monday, September 28, 2026</title>
+      <description>Covering: "Clarity (Hiive)" &lt;opportunities@mail.hiive.com&gt;, Barak Ravid &lt;barak.ravid@axios.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, The Atlantic Council Team &lt;events@atlanticcouncil.org&gt;, "Clarity (Hiive)" &lt;noreply@app.hiive.com&gt;, Maria Curi &lt;maria.curi@axios.com&gt;, Esteban Kolsky &lt;theboard@constellationr.com&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 06:42:40 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-09-28</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-28.m4a" type="audio/mp4" length="2363181"/>
+    </item>
+    <item>
       <title>Commercial Digest — Sunday, September 27, 2026</title>
       <description>Covering: Mike Allen &lt;mike@axios.com&gt;, The Atlantic Council Team &lt;events@atlanticcouncil.org&gt;, The Substack Post &lt;post+the-weekender@substack.com&gt;, Michael Seebeck &lt;michaelseebeck@substack.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, "Amanda van Dyke from Amanda’s Substack" &lt;amandavandyke@substack.com&gt;, Tomas Pueyo from Uncharted Territories &lt;unchartedterritories@substack.com&gt;</description>
       <pubDate>Sun, 27 Sep 2026 06:44:29 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 29 Jul 2026 07:09:21 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-07-29</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-29.m4a" type="audio/mp4" length="2787091"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Tuesday, July 28, 2026</title>
-      <description>Covering: Tomas Pueyo from Uncharted Territories &lt;unchartedterritories@substack.com&gt;, Anthony Vicino &lt;av@anthonyvicino.com&gt;, Think at London Business School &lt;think@news.london.edu&gt;, Navals Archive &lt;navalsarchive@substack.com&gt;, a16z &lt;a16z@substack.com&gt;, Dr Michelle Gibbings via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 21:44:18 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-07-28</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-28.m4a" type="audio/mp4" length="2230932"/>
     </item>
   </channel>
 </rss>
