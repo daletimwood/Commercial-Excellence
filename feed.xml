@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Friday, October 2, 2026</title>
+      <description>Covering: TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, The Atlantic Council Team &lt;events@atlanticcouncil.org&gt;, Understanding AI &lt;understandingai@substack.com&gt;, Transatlantic Security Initiative &lt;events@atlanticcouncil.org&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Barak Ravid &lt;barak.ravid@axios.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 06:57:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-10-02</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-02.m4a" type="audio/mp4" length="3179429"/>
+    </item>
+    <item>
       <title>Commercial Digest — Wednesday, September 30, 2026</title>
       <description>Covering: Lucinda Shen &lt;lucinda.shen@axios.com&gt;, Fred Kempe &lt;inflectionpoints@atlanticcouncil.org&gt;, Ollama &lt;hello@ollama.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, "Clarity (Hiive)" &lt;noreply@app.hiive.com&gt;, Axios Closer &lt;closer@axios.com&gt;, Axios Markets &lt;markets@axios.com&gt;, "Marc Randolph from Marc Randolph's Substack" &lt;marcrandolph@substack.com&gt;</description>
       <pubDate>Wed, 30 Sep 2026 06:53:58 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 31 Jul 2026 07:20:32 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-07-31</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-31.m4a" type="audio/mp4" length="3861016"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Thursday, July 30, 2026</title>
-      <description>Covering: Substack &lt;no-reply@substack.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Ollama &lt;hello@ollama.com&gt;, DFRobot Service &lt;service@dfrobot.com&gt;, Nigel Walsh via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 08:17:25 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-07-30</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-30.m4a" type="audio/mp4" length="2376790"/>
     </item>
   </channel>
 </rss>
