@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Saturday, October 3, 2026</title>
+      <description>Covering: Understanding AI &lt;understandingai@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Courtenay Brown &lt;courtenay.brown@axios.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, a16z &lt;a16z@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;</description>
+      <pubDate>Sat, 03 Oct 2026 06:44:11 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-10-03</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-03.m4a" type="audio/mp4" length="2995146"/>
+    </item>
+    <item>
       <title>Commercial Digest — Friday, October 2, 2026</title>
       <description>Covering: TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, The Atlantic Council Team &lt;events@atlanticcouncil.org&gt;, Understanding AI &lt;understandingai@substack.com&gt;, Transatlantic Security Initiative &lt;events@atlanticcouncil.org&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Barak Ravid &lt;barak.ravid@axios.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;</description>
       <pubDate>Fri, 02 Oct 2026 06:57:00 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 01 Aug 2026 07:17:26 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-08-01</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-01.m4a" type="audio/mp4" length="2685402"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Friday, July 31, 2026</title>
-      <description>Covering: Okta via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Tomas Pueyo from Uncharted Territories &lt;unchartedterritories@substack.com&gt;, Substack &lt;no-reply@substack.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 07:20:32 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-07-31</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-07-31.m4a" type="audio/mp4" length="3861016"/>
     </item>
   </channel>
 </rss>
