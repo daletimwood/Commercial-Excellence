@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Sunday, October 4, 2026</title>
+      <description>Covering: Marc Rubinstein from Net Interest &lt;netinterest@substack.com&gt;, "European Stability Initiative (ESI)" &lt;newsletter@esiweb.org&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, "Clarity (Hiive)" &lt;noreply@app.hiive.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;, The Substack Post &lt;post+the-weekender@substack.com&gt;, "Hemma R. Lomax, Ph.D via LinkedIn" &lt;newsletters-noreply@linkedin.com&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 06:30:49 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-10-04</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-04.m4a" type="audio/mp4" length="2882476"/>
+    </item>
+    <item>
       <title>Commercial Digest — Saturday, October 3, 2026</title>
       <description>Covering: Understanding AI &lt;understandingai@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Courtenay Brown &lt;courtenay.brown@axios.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, a16z &lt;a16z@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;</description>
       <pubDate>Sat, 03 Oct 2026 06:44:11 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 02 Aug 2026 18:30:14 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-08-02</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-02.m4a" type="audio/mp4" length="1736667"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Saturday, August 1, 2026</title>
-      <description>Covering: Google Alerts &lt;googlealerts-noreply@google.com&gt;, Kirsten at TechCrunch Mobility &lt;newsletters@techcrunch.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, "Forbes | Under 30" &lt;under30@email.forbes.com&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 07:17:26 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-08-01</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-01.m4a" type="audio/mp4" length="2685402"/>
     </item>
   </channel>
 </rss>
