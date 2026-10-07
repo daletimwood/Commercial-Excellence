@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Wednesday, October 7, 2026</title>
+      <description>Covering: TLDR IT &lt;dan@tldrnewsletter.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, UkraineAlert &lt;ukrainealert@atlanticcouncil.org&gt;, GitHub via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 06:45:51 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-10-07</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-07.m4a" type="audio/mp4" length="3378101"/>
+    </item>
+    <item>
       <title>Commercial Digest — Tuesday, October 6, 2026</title>
       <description>Covering: TLDR Fintech &lt;dan@tldrnewsletter.com&gt;, a16z &lt;a16z@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Software Synthesis by Akash Bajwa &lt;akashbajwa@substack.com&gt;, Understanding AI &lt;understandingai@substack.com&gt;, AC Intel &lt;editor@atlanticcouncil.org&gt;, Scaling Europe &lt;scaling-europe@mail.beehiiv.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;</description>
       <pubDate>Tue, 06 Oct 2026 06:39:20 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 08 Aug 2026 07:13:17 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-08-08</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-08.m4a" type="audio/mp4" length="2500461"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Friday, August 7, 2026</title>
-      <description>Covering: "The Batch @ DeepLearning.AI" &lt;thebatch@deeplearning.ai&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, a16z &lt;a16z@substack.com&gt;, The Substack Post &lt;post+unstacked@substack.com&gt;, Substack &lt;no-reply@substack.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, TechCrunch Disrupt &lt;noreply@techcrunch.com&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 07:22:45 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-08-07</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-07.m4a" type="audio/mp4" length="3212972"/>
     </item>
   </channel>
 </rss>
