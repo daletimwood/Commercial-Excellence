@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Thursday, October 8, 2026</title>
+      <description>Covering: a16z &lt;a16z@substack.com&gt;, Axios Defense &lt;defense@axios.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Dan Primack &lt;dan@axios.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, "Jessie Yin &amp; Lize de Kruijf from the Atlantic Council GeoEconomics Center" &lt;geoeconomics@atlanticcouncil.org&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 06:44:07 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-10-08</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-08.m4a" type="audio/mp4" length="2566759"/>
+    </item>
+    <item>
       <title>Commercial Digest — Wednesday, October 7, 2026</title>
       <description>Covering: TLDR IT &lt;dan@tldrnewsletter.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, UkraineAlert &lt;ukrainealert@atlanticcouncil.org&gt;, GitHub via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;</description>
       <pubDate>Wed, 07 Oct 2026 06:45:51 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 09 Aug 2026 07:01:37 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-08-09</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-09.m4a" type="audio/mp4" length="3493461"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Saturday, August 8, 2026</title>
-      <description>Covering: Flipboard &lt;editorialstaff@flipboard.com&gt;, Termius News &lt;no-reply@news.termius.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Ollama &lt;hello@ollama.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Raspberry Pi Weekly &lt;weekly@raspberrypi.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;</description>
-      <pubDate>Sat, 08 Aug 2026 07:13:17 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-08-08</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-08.m4a" type="audio/mp4" length="2500461"/>
     </item>
   </channel>
 </rss>
