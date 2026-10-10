@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Special Episode — Sequoia: AGI Has Arrived. Now What?, Saturday, October 10, 2026</title>
+      <description>Sequoia's January "This is AGI" essay, read against Pat Grady's September investor briefing: services markets, the diffusion gap, labs in your accounts, four-month reinvention and frothy valuations.</description>
+      <pubDate>Sat, 10 Oct 2026 10:45:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-special-sequoia-agi-2026-10-10</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/special-2026-10-10-sequoia-agi.m4a" type="audio/mp4" length="4245068"/>
+    </item>
+    <item>
       <title>Commercial Digest — Saturday, October 10, 2026</title>
       <description>Covering: Newcomer &lt;newcomer@substack.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Mike Allen &lt;mike@axios.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, a16z &lt;a16z@substack.com&gt;, Barak Ravid &lt;barak.ravid@axios.com&gt;</description>
       <pubDate>Sat, 10 Oct 2026 06:48:20 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 12 Aug 2026 09:17:53 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-08-12</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-12.m4a" type="audio/mp4" length="3284840"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Tuesday, August 11, 2026</title>
-      <description>Covering: Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Scaling Europe &lt;scaling-europe@mail.beehiiv.com&gt;, Dr Michelle Gibbings via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, TLDR Founders &lt;dan@tldrnewsletter.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 07:23:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-08-11</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-11.m4a" type="audio/mp4" length="2918942"/>
     </item>
   </channel>
 </rss>
