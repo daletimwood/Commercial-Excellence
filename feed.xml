@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Sunday, October 11, 2026</title>
+      <description>Covering: Axios Defense &lt;defense@axios.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, "Clarity (Hiive)" &lt;noreply@app.hiive.com&gt;, Barak Ravid &lt;barak.ravid@axios.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, "The Batch @ DeepLearning.AI" &lt;thebatch@deeplearning.ai&gt;, Axios Closer &lt;closer@axios.com&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 06:38:14 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-10-11</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-11.m4a" type="audio/mp4" length="3434158"/>
+    </item>
+    <item>
       <title>Special Episode — Sequoia: AGI Has Arrived. Now What?, Saturday, October 10, 2026</title>
       <description>Sequoia's January "This is AGI" essay, read against Pat Grady's September investor briefing: services markets, the diffusion gap, labs in your accounts, four-month reinvention and frothy valuations.</description>
       <pubDate>Sat, 10 Oct 2026 10:45:00 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Thu, 13 Aug 2026 07:15:16 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-08-13</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-13.m4a" type="audio/mp4" length="2078200"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Wednesday, August 12, 2026</title>
-      <description>Covering: Hiive &lt;opportunities@mail.hiive.com&gt;, "Forbes | Careers" &lt;leadership@email.forbes.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, UkraineAlert &lt;ukrainealert@atlanticcouncil.org&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Mike Allen &lt;mike@axios.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 09:17:53 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-08-12</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-12.m4a" type="audio/mp4" length="3284840"/>
     </item>
   </channel>
 </rss>
