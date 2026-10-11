@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Special Episode — Every Action Earns Authority, Sunday, October 11, 2026</title>
+      <description>Esteban Kolsky's case for earned authority in enterprise AI agents, tested against the research, and why no one can price autonomy until someone prices a human approval.</description>
+      <pubDate>Sun, 11 Oct 2026 16:45:00 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-special-earned-authority-2026-10-11</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/special-2026-10-11-earned-authority.m4a" type="audio/mp4" length="3786746"/>
+    </item>
+    <item>
       <title>Commercial Digest — Sunday, October 11, 2026</title>
       <description>Covering: Axios Defense &lt;defense@axios.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, "Clarity (Hiive)" &lt;noreply@app.hiive.com&gt;, Barak Ravid &lt;barak.ravid@axios.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, "The Batch @ DeepLearning.AI" &lt;thebatch@deeplearning.ai&gt;, Axios Closer &lt;closer@axios.com&gt;</description>
       <pubDate>Sun, 11 Oct 2026 06:38:14 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 14 Aug 2026 07:17:34 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-08-14</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-14.m4a" type="audio/mp4" length="2256155"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Thursday, August 13, 2026</title>
-      <description>Covering: Tetragrammaton Editorial &lt;rickrubin+tetra@substack.com&gt;, Janelle Teng from Next Big Teng &lt;nextbigteng@substack.com&gt;, Humanistic Systems &lt;donotreply@wordpress.com&gt;, Axios &lt;newsdesk@axios.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Axios Mobility &lt;mobility@axios.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, Axios Closer &lt;closer@axios.com&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 07:15:16 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-08-13</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-13.m4a" type="audio/mp4" length="2078200"/>
     </item>
   </channel>
 </rss>
