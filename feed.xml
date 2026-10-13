@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Tuesday, October 13, 2026</title>
+      <description>Covering: Scaling Europe &lt;scaling-europe@mail.beehiiv.com&gt;, Ina Fried &lt;ina@axios.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Software Synthesis by Akash Bajwa &lt;akashbajwa@substack.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, TLDR Data &lt;dan@tldrnewsletter.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 06:45:23 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-10-13</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-13.m4a" type="audio/mp4" length="4364360"/>
+    </item>
+    <item>
       <title>Commercial Digest — Monday, October 12, 2026</title>
       <description>Covering: Esteban Kolsky &lt;theboard@constellationr.com&gt;, "Clarity (Hiive)" &lt;noreply@app.hiive.com&gt;, Mike Allen &lt;mike@axios.com&gt;, "Hemma R. Lomax, Ph.D via LinkedIn" &lt;newsletters-noreply@linkedin.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, Barak Ravid &lt;barak.ravid@axios.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;</description>
       <pubDate>Mon, 12 Oct 2026 06:26:00 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 16 Aug 2026 07:07:31 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-08-16</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-16.m4a" type="audio/mp4" length="3214833"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Saturday, August 15, 2026</title>
-      <description>Covering: TLDR IT &lt;dan@tldrnewsletter.com&gt;, TLDR &lt;dan@tldrnewsletter.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Kirsten at TechCrunch Mobility &lt;newsletters@techcrunch.com&gt;, Axios Markets &lt;markets@axios.com&gt;, African Business &lt;noreply@icpublications.com&gt;, The Adrienne Arsht Latin America Center and Caribbean Initiative &lt;aalac@atlanticcouncil.org&gt;</description>
-      <pubDate>Sat, 15 Aug 2026 07:22:46 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-08-15</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-15.m4a" type="audio/mp4" length="3020331"/>
     </item>
   </channel>
 </rss>
