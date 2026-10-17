@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Saturday, October 17, 2026</title>
+      <description>Covering: Axios &lt;newsdesk@axios.com&gt;, Good Better Best by PricingSaaS &lt;goodbetterbest@mail.beehiiv.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, a16z &lt;a16z@substack.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;</description>
+      <pubDate>Sat, 17 Oct 2026 06:42:40 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-10-17</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-17.m4a" type="audio/mp4" length="3160623"/>
+    </item>
+    <item>
       <title>Commercial Digest — Friday, October 16, 2026</title>
       <description>Covering: Axios Energy &lt;energy@axios.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, a16z &lt;a16z@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;</description>
       <pubDate>Fri, 16 Oct 2026 06:39:40 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 21 Aug 2026 07:26:08 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-08-21</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-21.m4a" type="audio/mp4" length="2630127"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Thursday, August 20, 2026</title>
-      <description>Covering: Axios Macro &lt;macro@axios.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Janelle Teng from Next Big Teng &lt;nextbigteng@substack.com&gt;, "Axios AI+" &lt;ai.plus@axios.com&gt;, Barak Ravid &lt;barak.ravid@axios.com&gt;, Flipboard Consumer Tech &lt;editorialstaff@flipboard.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Axios Mobility &lt;mobility@axios.com&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 06:34:55 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-08-20</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-20.m4a" type="audio/mp4" length="1832897"/>
     </item>
   </channel>
 </rss>
