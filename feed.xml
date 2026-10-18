@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Sunday, October 18, 2026</title>
+      <description>Covering: StrictlyVC &lt;connie@strictlyvc.com&gt;, Kirsten at TechCrunch Mobility &lt;newsletters@techcrunch.com&gt;, "Axios AI+" &lt;ai.plus@axios.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, Fred Kempe &lt;inflectionpoints@atlanticcouncil.org&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, TLDR Hardware &lt;dan@tldrnewsletter.com&gt;, Axios Energy &lt;energy@axios.com&gt;</description>
+      <pubDate>Sun, 18 Oct 2026 06:40:23 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-10-18</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-18.m4a" type="audio/mp4" length="2486069"/>
+    </item>
+    <item>
       <title>Commercial Digest — Saturday, October 17, 2026</title>
       <description>Covering: Axios &lt;newsdesk@axios.com&gt;, Good Better Best by PricingSaaS &lt;goodbetterbest@mail.beehiiv.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, a16z &lt;a16z@substack.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;</description>
       <pubDate>Sat, 17 Oct 2026 06:42:40 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 22 Aug 2026 06:46:59 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-08-22</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-22.m4a" type="audio/mp4" length="2335108"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Friday, August 21, 2026</title>
-      <description>Covering: Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Amos Bar Joseph &lt;swan-ai@mail.beehiiv.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, African Business &lt;noreply@icpublications.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Substack &lt;no-reply@substack.com&gt;, TLDR Data &lt;dan@tldrnewsletter.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 07:26:08 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-08-21</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-21.m4a" type="audio/mp4" length="2630127"/>
     </item>
   </channel>
 </rss>
