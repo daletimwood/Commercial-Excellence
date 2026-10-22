@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Thursday, October 22, 2026</title>
+      <description>Covering: Axios Markets &lt;markets@axios.com&gt;, "Axios AI+" &lt;ai.plus@axios.com&gt;, a16z &lt;a16z@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;, Peter Hinssen via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Dan Primack &lt;dan@axios.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 06:34:14 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-10-22</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-22.m4a" type="audio/mp4" length="2189059"/>
+    </item>
+    <item>
       <title>Commercial Digest — Wednesday, October 21, 2026</title>
       <description>Covering: TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, Derek Thompson &lt;derekthompson@substack.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Mike Allen &lt;mike@axios.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, a16z &lt;a16z@substack.com&gt;</description>
       <pubDate>Wed, 21 Oct 2026 06:39:29 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 26 Aug 2026 06:48:01 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-08-26</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-26.m4a" type="audio/mp4" length="1718453"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Tuesday, August 25, 2026</title>
-      <description>Covering: TLDR Data &lt;dan@tldrnewsletter.com&gt;, Axios Energy &lt;energy@axios.com&gt;, Dan Primack &lt;dan@axios.com&gt;, Dr Michelle Gibbings via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, AC Intel &lt;editor@atlanticcouncil.org&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Axios Macro &lt;macro@axios.com&gt;, Atlantic Council editors &lt;editor@atlanticcouncil.org&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 06:46:25 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-08-25</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-25.m4a" type="audio/mp4" length="1660342"/>
     </item>
   </channel>
 </rss>
