@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Saturday, October 24, 2026</title>
+      <description>Covering: a16z &lt;a16z@substack.com&gt;, Marc Rubinstein from Net Interest &lt;netinterest@substack.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Barak Ravid &lt;barak.ravid@axios.com&gt;, Kirsten at TechCrunch Mobility &lt;newsletters@techcrunch.com&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 06:40:11 +0100</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-10-24</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-24.m4a" type="audio/mp4" length="2897174"/>
+    </item>
+    <item>
       <title>Commercial Digest — Friday, October 23, 2026</title>
       <description>Covering: Mike Allen &lt;mike@axios.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, Fred Kempe &lt;inflectionpoints@atlanticcouncil.org&gt;, TLDR Fintech &lt;dan@tldrnewsletter.com&gt;, "Axios AI+" &lt;ai.plus@axios.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, a16z &lt;a16z@substack.com&gt;</description>
       <pubDate>Fri, 23 Oct 2026 06:41:12 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 28 Aug 2026 07:36:57 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-08-28</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-28.m4a" type="audio/mp4" length="1943370"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Thursday, August 27, 2026</title>
-      <description>Covering: Flipboard &lt;editorialstaff@flipboard.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Axios Macro &lt;macro@axios.com&gt;, Axios Energy &lt;energy@axios.com&gt;, TLDR Founders &lt;dan@tldrnewsletter.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Harvard Business Review &lt;emailteam@emails.hbr.org&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 07:23:46 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-08-27</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-27.m4a" type="audio/mp4" length="3336199"/>
     </item>
   </channel>
 </rss>
