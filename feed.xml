@@ -11,6 +11,20 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Monday, October 26, 2026</title>
+      <description>Covering: Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, "Clarity (Hiive)" &lt;opportunities@mail.hiive.com&gt;, Ollama &lt;hello@ollama.com&gt;, "Hemma R. Lomax, Ph.D via LinkedIn" &lt;newsletters-noreply@linkedin.com&gt;, Barak Ravid &lt;barak.ravid@axios.com&gt;, Esteban Kolsky &lt;theboard@constellationr.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 06:33:12 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-10-26</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-26.m4a" type="audio/mp4" length="3066965"/>
+    </item>
+    <item>
+      <title>Commercial Digest — Sunday, October 25, 2026</title>
+      <description>Covering: Tomas Pueyo from Uncharted Territories &lt;unchartedterritories@substack.com&gt;, Marc Caputo &lt;marc.caputo@axios.com&gt;, Mike Allen &lt;mike@axios.com&gt;, TLDR Hardware &lt;dan@tldrnewsletter.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Good Better Best by PricingSaaS &lt;goodbetterbest@mail.beehiiv.com&gt;, Axios Closer &lt;closer@axios.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 08:17:31 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-10-25</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-25.m4a" type="audio/mp4" length="3696545"/>
+    </item>
+    <item>
       <title>Commercial Digest — Saturday, October 24, 2026</title>
       <description>Covering: a16z &lt;a16z@substack.com&gt;, Marc Rubinstein from Net Interest &lt;netinterest@substack.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Barak Ravid &lt;barak.ravid@axios.com&gt;, Kirsten at TechCrunch Mobility &lt;newsletters@techcrunch.com&gt;</description>
       <pubDate>Sat, 24 Oct 2026 06:40:11 +0100</pubDate>
@@ -415,20 +429,6 @@
       <pubDate>Sun, 30 Aug 2026 06:36:52 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-08-30</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-30.m4a" type="audio/mp4" length="1774129"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Saturday, August 29, 2026</title>
-      <description>Covering: Crystal by Prof Paul Dolan &lt;profpauldolan@substack.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Good Better Best by PricingSaaS &lt;goodbetterbest@mail.beehiiv.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Raspberry Pi Weekly &lt;weekly@raspberrypi.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;</description>
-      <pubDate>Sat, 29 Aug 2026 07:52:48 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-08-29</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-29.m4a" type="audio/mp4" length="2879669"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Friday, August 28, 2026</title>
-      <description>Covering: "The Batch @ DeepLearning.AI" &lt;thebatch@deeplearning.ai&gt;, DFRobot Service &lt;service@dfrobot.com&gt;, Mike Allen &lt;mike@axios.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, Axios Macro &lt;macro@axios.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, UkraineAlert &lt;ukrainealert@atlanticcouncil.org&gt;, Substack &lt;no-reply@substack.com&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 07:36:57 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-08-28</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-28.m4a" type="audio/mp4" length="1943370"/>
     </item>
   </channel>
 </rss>
