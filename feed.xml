@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Wednesday, October 28, 2026</title>
+      <description>Covering: a16z &lt;a16z@substack.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;, Aircall via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, UkraineAlert &lt;ukrainealert@atlanticcouncil.org&gt;, AVEVA via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Axios Cybersecurity &lt;cyber@axios.com&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 06:36:37 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-10-28</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-28.m4a" type="audio/mp4" length="3502230"/>
+    </item>
+    <item>
       <title>Commercial Digest — Tuesday, October 27, 2026</title>
       <description>Covering: "Axios AI+" &lt;ai.plus@axios.com&gt;, Mike Allen &lt;mike@axios.com&gt;, TLDR Hardware &lt;dan@tldrnewsletter.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Axios Energy &lt;energy@axios.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, Dan Primack &lt;dan@axios.com&gt;</description>
       <pubDate>Tue, 27 Oct 2026 06:39:21 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Tue, 01 Sep 2026 06:52:22 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-09-01</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-01.m4a" type="audio/mp4" length="2712354"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Monday, August 31, 2026</title>
-      <description>Covering: Axios &lt;newsletters@axios.com&gt;, Heather Cox Richardson and 250 to 250 from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, The Substack Post &lt;post@substack.com&gt;, Brett Queener from Tales from The Bonfire &lt;queener@substack.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 06:50:51 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-08-31</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-08-31.m4a" type="audio/mp4" length="2806609"/>
     </item>
   </channel>
 </rss>
