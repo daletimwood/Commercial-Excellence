@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Thursday, October 29, 2026</title>
+      <description>Covering: a16z &lt;a16z@substack.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, Prior Labs &lt;hello@priorlabs.ai&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, AC Intel &lt;editor@atlanticcouncil.org&gt;, Dan Primack &lt;dan@axios.com&gt;, Atlantic Council editors &lt;editor@atlanticcouncil.org&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 06:36:16 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-10-29</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-29.m4a" type="audio/mp4" length="2868187"/>
+    </item>
+    <item>
       <title>Commercial Digest — Wednesday, October 28, 2026</title>
       <description>Covering: a16z &lt;a16z@substack.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;, Aircall via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, UkraineAlert &lt;ukrainealert@atlanticcouncil.org&gt;, AVEVA via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Axios Cybersecurity &lt;cyber@axios.com&gt;</description>
       <pubDate>Wed, 28 Oct 2026 06:36:37 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 02 Sep 2026 06:53:44 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-09-02</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-02.m4a" type="audio/mp4" length="2601834"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Tuesday, September 1, 2026</title>
-      <description>Covering: TLDR Data &lt;dan@tldrnewsletter.com&gt;, a16z &lt;a16z@substack.com&gt;, TLDR Founders &lt;dan@tldrnewsletter.com&gt;, Axios Energy &lt;energy@axios.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, TLDR Fintech &lt;dan@tldrnewsletter.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 06:52:22 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-09-01</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-01.m4a" type="audio/mp4" length="2712354"/>
     </item>
   </channel>
 </rss>
