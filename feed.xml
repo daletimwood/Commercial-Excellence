@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Monday, November 2, 2026</title>
+      <description>Covering: "Clarity (Hiive)" &lt;opportunities@mail.hiive.com&gt;, Mike Allen &lt;mike@axios.com&gt;, Axios &lt;newsdesk@axios.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, AC Europe Center &lt;europecenter@atlanticcouncil.org&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;, "Hemma R. Lomax, Ph.D via LinkedIn" &lt;newsletters-noreply@linkedin.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 06:23:35 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-11-02</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-11-02.m4a" type="audio/mp4" length="3379799"/>
+    </item>
+    <item>
       <title>Commercial Digest — Sunday, November 1, 2026</title>
       <description>Covering: AC Europe Center &lt;europecenter@atlanticcouncil.org&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Nate Hagens from The Great Simplification &lt;natehagens@substack.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, a16z &lt;a16z@substack.com&gt;, Axios &lt;newsdesk@axios.com&gt;, Marc Rubinstein from Net Interest &lt;netinterest@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;</description>
       <pubDate>Sun, 01 Nov 2026 06:34:02 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 06 Sep 2026 06:39:21 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-09-06</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-06.m4a" type="audio/mp4" length="1957641"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Saturday, September 5, 2026</title>
-      <description>Covering: Good Better Best by PricingSaaS &lt;goodbetterbest@mail.beehiiv.com&gt;, Europe Gulf Alert &lt;europegulfalert@atlanticcouncil.org&gt;, Substack &lt;no-reply@substack.com&gt;, Michael Seebeck &lt;michaelseebeck@substack.com&gt;, Parallel Web Systems &lt;hello@updates.parallel.ai&gt;, Jessie Yin from the Atlantic Council GeoEconomics Center &lt;geoeconomics@atlanticcouncil.org&gt;, Axios &lt;newsdesk@axios.com&gt;, Axios Macro &lt;macro@axios.com&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 11:48:53 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-09-05</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-05.m4a" type="audio/mp4" length="2698558"/>
     </item>
   </channel>
 </rss>
