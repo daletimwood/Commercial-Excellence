@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Tuesday, November 3, 2026</title>
+      <description>Covering: Scaling Europe &lt;scaling-europe@mail.beehiiv.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;, Barak Ravid &lt;barak.ravid@axios.com&gt;, AC Intel &lt;editor@atlanticcouncil.org&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Mike Allen &lt;mike@axios.com&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 06:31:21 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-11-03</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-11-03.m4a" type="audio/mp4" length="3273134"/>
+    </item>
+    <item>
       <title>Commercial Digest — Monday, November 2, 2026</title>
       <description>Covering: "Clarity (Hiive)" &lt;opportunities@mail.hiive.com&gt;, Mike Allen &lt;mike@axios.com&gt;, Axios &lt;newsdesk@axios.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, AC Europe Center &lt;europecenter@atlanticcouncil.org&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;, "Hemma R. Lomax, Ph.D via LinkedIn" &lt;newsletters-noreply@linkedin.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;</description>
       <pubDate>Mon, 02 Nov 2026 06:23:35 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Mon, 07 Sep 2026 06:45:52 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-09-07</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-07.m4a" type="audio/mp4" length="2235163"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Sunday, September 6, 2026</title>
-      <description>Covering: Parallel Web Systems &lt;hello@updates.parallel.ai&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Ollama &lt;hello@ollama.com&gt;, Mike Allen &lt;mike@axios.com&gt;, The Substack Post &lt;post+the-weekender@substack.com&gt;, Kirsten at TechCrunch Mobility &lt;newsletters@techcrunch.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, "European Stability Initiative (ESI)" &lt;newsletter@esiweb.org&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 06:39:21 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-09-06</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-06.m4a" type="audio/mp4" length="1957641"/>
     </item>
   </channel>
 </rss>
