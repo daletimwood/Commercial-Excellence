@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Wednesday, November 4, 2026</title>
+      <description>Covering: Axios Cybersecurity &lt;cyber@axios.com&gt;, Kristal Dixon &lt;kristal.dixon@axios.com&gt;, Dan Primack &lt;dan@axios.com&gt;, Axios Closer &lt;closer@axios.com&gt;, Thomas Wheatley &lt;thomas.wheatley@axios.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Fred Kempe &lt;inflectionpoints@atlanticcouncil.org&gt;, Mike Allen &lt;mike@axios.com&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 06:36:25 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-11-04</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-11-04.m4a" type="audio/mp4" length="3172207"/>
+    </item>
+    <item>
       <title>Commercial Digest — Tuesday, November 3, 2026</title>
       <description>Covering: Scaling Europe &lt;scaling-europe@mail.beehiiv.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;, Barak Ravid &lt;barak.ravid@axios.com&gt;, AC Intel &lt;editor@atlanticcouncil.org&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Mike Allen &lt;mike@axios.com&gt;</description>
       <pubDate>Tue, 03 Nov 2026 06:31:21 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Tue, 08 Sep 2026 06:44:11 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-09-08</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-08.m4a" type="audio/mp4" length="2490770"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Monday, September 7, 2026</title>
-      <description>Covering: Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Heather Cox Richardson and 250 to 250 from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Mike Allen &lt;mike@axios.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Kirsten at TechCrunch Mobility &lt;newsletters@techcrunch.com&gt;</description>
-      <pubDate>Mon, 07 Sep 2026 06:45:52 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-09-07</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-07.m4a" type="audio/mp4" length="2235163"/>
     </item>
   </channel>
 </rss>
