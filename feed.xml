@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Thursday, November 5, 2026</title>
+      <description>Covering: The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, Atlantic Council editors &lt;editor@atlanticcouncil.org&gt;, "Axios AI+" &lt;ai.plus@axios.com&gt;, AC Intel &lt;editor@atlanticcouncil.org&gt;, Axios &lt;newsdesk@axios.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, Derek Thompson &lt;derekthompson@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 06:31:46 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-11-05</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-11-05.m4a" type="audio/mp4" length="1892574"/>
+    </item>
+    <item>
       <title>Commercial Digest — Wednesday, November 4, 2026</title>
       <description>Covering: Axios Cybersecurity &lt;cyber@axios.com&gt;, Kristal Dixon &lt;kristal.dixon@axios.com&gt;, Dan Primack &lt;dan@axios.com&gt;, Axios Closer &lt;closer@axios.com&gt;, Thomas Wheatley &lt;thomas.wheatley@axios.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Fred Kempe &lt;inflectionpoints@atlanticcouncil.org&gt;, Mike Allen &lt;mike@axios.com&gt;</description>
       <pubDate>Wed, 04 Nov 2026 06:36:25 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 09 Sep 2026 06:30:18 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-09-09</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-09.m4a" type="audio/mp4" length="2701918"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Tuesday, September 8, 2026</title>
-      <description>Covering: Michael Seebeck &lt;michaelseebeck@substack.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, Mike Allen &lt;mike@axios.com&gt;, TLDR Hardware &lt;dan@tldrnewsletter.com&gt;, Dr Michelle Gibbings via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, TLDR Founders &lt;dan@tldrnewsletter.com&gt;, Scaling Europe &lt;scaling-europe@mail.beehiiv.com&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 06:44:11 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-09-08</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-08.m4a" type="audio/mp4" length="2490770"/>
     </item>
   </channel>
 </rss>
