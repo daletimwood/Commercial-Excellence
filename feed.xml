@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Saturday, November 7, 2026</title>
+      <description>Covering: AC Intel &lt;editor@atlanticcouncil.org&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, "Clarity (Hiive)" &lt;opportunities@mail.hiive.com&gt;, a16z &lt;a16z@substack.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Ollama &lt;hello@ollama.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 06:38:42 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-11-07</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-11-07.m4a" type="audio/mp4" length="3935267"/>
+    </item>
+    <item>
       <title>Commercial Digest — Friday, November 6, 2026</title>
       <description>Covering: "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;, Matt Phillips &lt;matt.phillips@axios.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, a16z &lt;a16z@substack.com&gt;, AC Intel &lt;editor@atlanticcouncil.org&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;</description>
       <pubDate>Fri, 06 Nov 2026 06:38:58 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 11 Sep 2026 06:53:02 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-09-11</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-11.m4a" type="audio/mp4" length="2594733"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Thursday, September 10, 2026</title>
-      <description>Covering: Dan Primack &lt;dan@axios.com&gt;, Axios Mobility &lt;mobility@axios.com&gt;, Alex Isenstadt &lt;alex.isenstadt@axios.com&gt;, a16z &lt;a16z@substack.com&gt;, Maria Curi &lt;maria.curi@axios.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, Josh Lipsky at the Atlantic Council &lt;geoeconomics@atlanticcouncil.org&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 06:52:12 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-09-10</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-10.m4a" type="audio/mp4" length="2156242"/>
     </item>
   </channel>
 </rss>
