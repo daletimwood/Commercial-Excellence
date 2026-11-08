@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Sunday, November 8, 2026</title>
+      <description>Covering: timwood@mail.instinct.com, a16z &lt;a16z@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Courtenay Brown &lt;courtenay.brown@axios.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, "Axios AI+" &lt;ai.plus@axios.com&gt;, Axios &lt;newsdesk@axios.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 06:29:30 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-11-08</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-11-08.m4a" type="audio/mp4" length="1651359"/>
+    </item>
+    <item>
       <title>Commercial Digest — Saturday, November 7, 2026</title>
       <description>Covering: AC Intel &lt;editor@atlanticcouncil.org&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, "Clarity (Hiive)" &lt;opportunities@mail.hiive.com&gt;, a16z &lt;a16z@substack.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Ollama &lt;hello@ollama.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;</description>
       <pubDate>Sat, 07 Nov 2026 06:38:42 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 12 Sep 2026 08:09:31 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-09-12</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-12.m4a" type="audio/mp4" length="1699279"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Friday, September 11, 2026</title>
-      <description>Covering: The Atlantic Council Team &lt;events@atlanticcouncil.org&gt;, Substack &lt;no-reply@substack.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Hiive &lt;noreply@app.hiive.com&gt;, Axios Energy &lt;energy@axios.com&gt;, UkraineAlert &lt;ukrainealert@atlanticcouncil.org&gt;, Axios Closer &lt;closer@axios.com&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 06:53:02 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-09-11</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-11.m4a" type="audio/mp4" length="2594733"/>
     </item>
   </channel>
 </rss>
