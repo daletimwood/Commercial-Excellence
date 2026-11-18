@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Wednesday, November 18, 2026</title>
+      <description>Covering: TLDR IT &lt;dan@tldrnewsletter.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;, Nathan Bomey &lt;nathan.bomey@axios.com&gt;, Pierce Buckley via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Axios &lt;newsdesk@axios.com&gt;, Axios Cybersecurity &lt;cyber@axios.com&gt;, Amos Bar Joseph &lt;swan-ai@mail.beehiiv.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 06:42:03 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-11-18</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-11-18.m4a" type="audio/mp4" length="1713011"/>
+    </item>
+    <item>
       <title>Commercial Digest — Tuesday, November 17, 2026</title>
       <description>Covering: Axios Closer &lt;closer@axios.com&gt;, a16z &lt;a16z@substack.com&gt;, timwood@mail.instinct.com, AC Intel &lt;editor@atlanticcouncil.org&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Bipartisan Commission on Biodefense at the Atlantic Council &lt;biodefense@atlanticcouncil.org&gt;, Nigel Walsh via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, "Axios AI+" &lt;ai.plus@axios.com&gt;</description>
       <pubDate>Tue, 17 Nov 2026 06:50:42 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Tue, 22 Sep 2026 07:36:57 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-09-22</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-22.m4a" type="audio/mp4" length="2371441"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Monday, September 21, 2026</title>
-      <description>Covering: Hiive &lt;noreply@app.hiive.com&gt;, Hiive &lt;opportunities@mail.hiive.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, The Atlantic Council Team &lt;events@atlanticcouncil.org&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, "William B. Irvine from How To Think More and Better" &lt;morebetterthinking@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 06:32:00 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-09-21</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-21.m4a" type="audio/mp4" length="1910611"/>
     </item>
   </channel>
 </rss>
