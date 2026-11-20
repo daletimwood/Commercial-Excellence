@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Friday, November 20, 2026</title>
+      <description>Covering: "Forward Future (Matthew Berman)" &lt;astro@forwardfuture.ai&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;, Mike Allen &lt;mike@axios.com&gt;, "Axios AI+" &lt;ai.plus@axios.com&gt;, Derek Thompson &lt;derekthompson@substack.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, Michael Seebeck &lt;michaelseebeck@substack.com&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 06:49:26 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-11-20</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-11-20.m4a" type="audio/mp4" length="2650603"/>
+    </item>
+    <item>
       <title>Commercial Digest — Thursday, November 19, 2026</title>
       <description>Covering: StrictlyVC &lt;connie@strictlyvc.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;, Fred Kempe &lt;inflectionpoints@atlanticcouncil.org&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Mike Allen &lt;mike@axios.com&gt;, "Axios AI+" &lt;ai.plus@axios.com&gt;, Andreessen Horowitz via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, Axios Closer &lt;closer@axios.com&gt;</description>
       <pubDate>Thu, 19 Nov 2026 06:41:29 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Thu, 24 Sep 2026 06:39:36 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-09-24</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-24.m4a" type="audio/mp4" length="2308739"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Wednesday, September 23, 2026</title>
-      <description>Covering: Google Alerts &lt;googlealerts-noreply@google.com&gt;, Axios Intelligence &lt;research@axios.com&gt;, UkraineAlert &lt;ukrainealert@atlanticcouncil.org&gt;, "Axios AI+" &lt;ai.plus@axios.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Axios Cybersecurity &lt;cyber@axios.com&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 06:40:31 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-09-23</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-23.m4a" type="audio/mp4" length="2451151"/>
     </item>
   </channel>
 </rss>
