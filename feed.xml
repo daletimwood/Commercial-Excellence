@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Monday, November 23, 2026</title>
+      <description>Covering: "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, Michael Seebeck &lt;michaelseebeck@substack.com&gt;, Esteban Kolsky &lt;theboard@constellationr.com&gt;, "Clarity (Hiive)" &lt;noreply@app.hiive.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;, Mike Allen &lt;mike@axios.com&gt;</description>
+      <pubDate>Mon, 23 Nov 2026 06:36:52 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-11-23</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-11-23.m4a" type="audio/mp4" length="1807039"/>
+    </item>
+    <item>
       <title>Commercial Digest — Sunday, November 22, 2026</title>
       <description>Covering: StrictlyVC &lt;connie@strictlyvc.com&gt;, Okta via LinkedIn &lt;newsletters-noreply@linkedin.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, Nate Hagens from The Great Simplification &lt;natehagens@substack.com&gt;, Kirsten at TechCrunch Mobility &lt;newsletters@techcrunch.com&gt;, Mike Allen &lt;mike@axios.com&gt;, The Atlantic Council Front Page Team &lt;acfrontpage@atlanticcouncil.org&gt;, "Axios AI+" &lt;ai.plus@axios.com&gt;</description>
       <pubDate>Sun, 22 Nov 2026 06:39:30 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 25 Sep 2026 06:41:54 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-09-25</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-25.m4a" type="audio/mp4" length="2179493"/>
-    </item>
-    <item>
-      <title>Special Episode — How China Thinks About AI</title>
-      <description>Derek Thompson's interviews with China-AI experts, plus Matt Sheehan on US-China AI safety.</description>
-      <pubDate>Thu, 24 Sep 2026 18:08:31 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-special-how-china-sees-ai-2026-09-24</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/special-2026-09-24-how-china-sees-ai.m4a" type="audio/mp4" length="3387701"/>
     </item>
   </channel>
 </rss>
