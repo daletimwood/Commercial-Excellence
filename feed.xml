@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Tuesday, November 24, 2026</title>
+      <description>Covering: "Axios AI+" &lt;ai.plus@axios.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Axios Markets &lt;markets@axios.com&gt;, "Forward Future (Matthew Berman)" &lt;astro@forwardfuture.ai&gt;, AC Intel &lt;editor@atlanticcouncil.org&gt;, a16z &lt;a16z@substack.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 06:42:14 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-11-24</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-11-24.m4a" type="audio/mp4" length="2742923"/>
+    </item>
+    <item>
       <title>Commercial Digest — Monday, November 23, 2026</title>
       <description>Covering: "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, Michael Seebeck &lt;michaelseebeck@substack.com&gt;, Esteban Kolsky &lt;theboard@constellationr.com&gt;, "Clarity (Hiive)" &lt;noreply@app.hiive.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;, Mike Allen &lt;mike@axios.com&gt;</description>
       <pubDate>Mon, 23 Nov 2026 06:36:52 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 26 Sep 2026 06:46:35 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-09-26</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-26.m4a" type="audio/mp4" length="2237327"/>
-    </item>
-    <item>
-      <title>Newsletter Digest — Friday, September 25, 2026</title>
-      <description>Covering: Sara Fischer &lt;sara@axios.com&gt;, Axios Closer &lt;closer@axios.com&gt;, Substack &lt;no-reply@substack.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, "Axios AI+" &lt;ai.plus@axios.com&gt;, Mike Allen &lt;mike@axios.com&gt;, The Atlantic Council Team &lt;events@atlanticcouncil.org&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 06:41:54 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-09-25</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-25.m4a" type="audio/mp4" length="2179493"/>
     </item>
   </channel>
 </rss>
