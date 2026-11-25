@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Wednesday, November 25, 2026</title>
+      <description>Covering: AC Intel &lt;editor@atlanticcouncil.org&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, Michael Seebeck &lt;michaelseebeck@substack.com&gt;, Understanding AI &lt;understandingai@substack.com&gt;, Axios Cybersecurity &lt;cyber@axios.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, "Clarity (Hiive)" &lt;opportunities@mail.hiive.com&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 06:55:28 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-11-25</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-11-25.m4a" type="audio/mp4" length="1397367"/>
+    </item>
+    <item>
       <title>Commercial Digest — Tuesday, November 24, 2026</title>
       <description>Covering: "Axios AI+" &lt;ai.plus@axios.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Axios Markets &lt;markets@axios.com&gt;, "Forward Future (Matthew Berman)" &lt;astro@forwardfuture.ai&gt;, AC Intel &lt;editor@atlanticcouncil.org&gt;, a16z &lt;a16z@substack.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;</description>
       <pubDate>Tue, 24 Nov 2026 06:42:14 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 27 Sep 2026 06:44:29 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-09-27</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-27.m4a" type="audio/mp4" length="3161993"/>
-    </item>
-    <item>
-      <title>Commercial Digest — Saturday, September 26, 2026</title>
-      <description>Covering: Newcomer &lt;newcomer@substack.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, The Economist on Substack &lt;theeconomistoffthecharts@substack.com&gt;, African Business &lt;noreply@icpublications.com&gt;, TLDR Founders &lt;dan@tldrnewsletter.com&gt;, Flipboard &lt;editorialstaff@flipboard.com&gt;, Axios Macro &lt;macro@axios.com&gt;, Laurie Owen &lt;refiningventure@mail.beehiiv.com&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 06:46:35 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-09-26</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-26.m4a" type="audio/mp4" length="2237327"/>
     </item>
   </channel>
 </rss>
