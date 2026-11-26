@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Thursday, November 26, 2026</title>
+      <description>Covering: timwood@mail.instinct.com, Newcomer &lt;newcomer@substack.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Courtenay Brown &lt;courtenay.brown@axios.com&gt;, Atlantic Council editors &lt;editor@atlanticcouncil.org&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;</description>
+      <pubDate>Thu, 26 Nov 2026 06:48:20 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-11-26</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-11-26.m4a" type="audio/mp4" length="1876973"/>
+    </item>
+    <item>
       <title>Commercial Digest — Wednesday, November 25, 2026</title>
       <description>Covering: AC Intel &lt;editor@atlanticcouncil.org&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, Michael Seebeck &lt;michaelseebeck@substack.com&gt;, Understanding AI &lt;understandingai@substack.com&gt;, Axios Cybersecurity &lt;cyber@axios.com&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, "Clarity (Hiive)" &lt;opportunities@mail.hiive.com&gt;</description>
       <pubDate>Wed, 25 Nov 2026 06:55:28 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Mon, 28 Sep 2026 06:42:40 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-09-28</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-28.m4a" type="audio/mp4" length="2363181"/>
-    </item>
-    <item>
-      <title>Commercial Digest — Sunday, September 27, 2026</title>
-      <description>Covering: Mike Allen &lt;mike@axios.com&gt;, The Atlantic Council Team &lt;events@atlanticcouncil.org&gt;, The Substack Post &lt;post+the-weekender@substack.com&gt;, Michael Seebeck &lt;michaelseebeck@substack.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, "Amanda van Dyke from Amanda’s Substack" &lt;amandavandyke@substack.com&gt;, Tomas Pueyo from Uncharted Territories &lt;unchartedterritories@substack.com&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 06:44:29 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-09-27</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-27.m4a" type="audio/mp4" length="3161993"/>
     </item>
   </channel>
 </rss>
