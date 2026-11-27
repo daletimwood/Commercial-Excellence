@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Friday, November 27, 2026</title>
+      <description>Covering: Courtenay Brown &lt;courtenay.brown@axios.com&gt;, TLDR Hardware &lt;dan@tldrnewsletter.com&gt;, Amos Bar Joseph &lt;swan-ai@mail.beehiiv.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, "Forward Future (Matthew Berman)" &lt;astro@forwardfuture.ai&gt;, TLDR Fintech &lt;dan@tldrnewsletter.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;</description>
+      <pubDate>Fri, 27 Nov 2026 06:56:09 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-11-27</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-11-27.m4a" type="audio/mp4" length="1260897"/>
+    </item>
+    <item>
       <title>Commercial Digest — Thursday, November 26, 2026</title>
       <description>Covering: timwood@mail.instinct.com, Newcomer &lt;newcomer@substack.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;, "Linas from Linas's Newsletter" &lt;linas@substack.com&gt;, Caixin Global &lt;caixinglobal.team@102113822.mailchimpapp.com&gt;, Courtenay Brown &lt;courtenay.brown@axios.com&gt;, Atlantic Council editors &lt;editor@atlanticcouncil.org&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;</description>
       <pubDate>Thu, 26 Nov 2026 06:48:20 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 30 Sep 2026 06:53:58 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-09-30</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-30.m4a" type="audio/mp4" length="4344167"/>
-    </item>
-    <item>
-      <title>Commercial Digest — Monday, September 28, 2026</title>
-      <description>Covering: "Clarity (Hiive)" &lt;opportunities@mail.hiive.com&gt;, Barak Ravid &lt;barak.ravid@axios.com&gt;, Google Alerts &lt;googlealerts-noreply@google.com&gt;, Heather Cox Richardson from Letters from an American &lt;heathercoxrichardson@substack.com&gt;, The Atlantic Council Team &lt;events@atlanticcouncil.org&gt;, "Clarity (Hiive)" &lt;noreply@app.hiive.com&gt;, Maria Curi &lt;maria.curi@axios.com&gt;, Esteban Kolsky &lt;theboard@constellationr.com&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 06:42:40 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-09-28</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-28.m4a" type="audio/mp4" length="2363181"/>
     </item>
   </channel>
 </rss>
