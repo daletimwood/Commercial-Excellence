@@ -11,6 +11,13 @@
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
     <item>
+      <title>Commercial Digest — Saturday, November 28, 2026</title>
+      <description>Covering: Good Better Best by Rob Litterst &lt;goodbetterbest@mail.beehiiv.com&gt;, Newcomer &lt;newcomer@substack.com&gt;, TLDR IT &lt;dan@tldrnewsletter.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;, "Forward Future (Matthew Berman)" &lt;astro@forwardfuture.ai&gt;, African Business &lt;noreply@icpublications.com&gt;, Kirsten at TechCrunch Mobility &lt;newsletters@techcrunch.com&gt;, Mike Allen &lt;mike@axios.com&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 06:43:04 +0000</pubDate>
+      <guid isPermaLink="false">newsletter-digest-2026-11-28</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-11-28.m4a" type="audio/mp4" length="1268671"/>
+    </item>
+    <item>
       <title>Commercial Digest — Friday, November 27, 2026</title>
       <description>Covering: Courtenay Brown &lt;courtenay.brown@axios.com&gt;, TLDR Hardware &lt;dan@tldrnewsletter.com&gt;, Amos Bar Joseph &lt;swan-ai@mail.beehiiv.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, StrictlyVC &lt;connie@strictlyvc.com&gt;, "Forward Future (Matthew Berman)" &lt;astro@forwardfuture.ai&gt;, TLDR Fintech &lt;dan@tldrnewsletter.com&gt;, AlphaSignal &lt;news@alphasignal.ai&gt;</description>
       <pubDate>Fri, 27 Nov 2026 06:56:09 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 02 Oct 2026 06:57:00 +0100</pubDate>
       <guid isPermaLink="false">newsletter-digest-2026-10-02</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-10-02.m4a" type="audio/mp4" length="3179429"/>
-    </item>
-    <item>
-      <title>Commercial Digest — Wednesday, September 30, 2026</title>
-      <description>Covering: Lucinda Shen &lt;lucinda.shen@axios.com&gt;, Fred Kempe &lt;inflectionpoints@atlanticcouncil.org&gt;, Ollama &lt;hello@ollama.com&gt;, TLDR Crypto &lt;dan@tldrnewsletter.com&gt;, "Clarity (Hiive)" &lt;noreply@app.hiive.com&gt;, Axios Closer &lt;closer@axios.com&gt;, Axios Markets &lt;markets@axios.com&gt;, "Marc Randolph from Marc Randolph's Substack" &lt;marcrandolph@substack.com&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 06:53:58 +0100</pubDate>
-      <guid isPermaLink="false">newsletter-digest-2026-09-30</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/newsletter/episodes/digest-2026-09-30.m4a" type="audio/mp4" length="4344167"/>
     </item>
   </channel>
 </rss>
